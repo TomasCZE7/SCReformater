@@ -1,0 +1,5660 @@
+shops:
+  blocky:
+    name: '&1Blocky &7(strana %page%)'
+    size: 54
+    items:
+      BALANCE:
+        type: special
+        special: BALANCE
+        slot: 50
+      '0':
+        type: item
+        item:
+          material: STONE
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 4
+      '1':
+        type: item
+        item:
+          material: GRASS
+          quantity: 1
+        buyPrice: 5
+        sellPrice: 2
+      '2':
+        type: item
+        item:
+          material: DIRT
+          quantity: 1
+        buyPrice: 3
+        sellPrice: 2
+      '3':
+        type: item
+        item:
+          material: COBBLESTONE
+          quantity: 1
+        buyPrice: 3
+        sellPrice: 2
+      '4':
+        type: item
+        item:
+          material: WOOD
+          quantity: 1
+        buyPrice: 3
+        sellPrice: 1
+      '5':
+        type: item
+        item:
+          material: WOOD
+          quantity: 1
+          damage: 1
+        buyPrice: 7
+        sellPrice: 4
+      '6':
+        type: item
+        item:
+          material: WOOD
+          quantity: 1
+          damage: 2
+        buyPrice: 2
+        sellPrice: 1
+      '7':
+        type: item
+        item:
+          material: WOOD
+          quantity: 1
+          damage: 3
+        buyPrice: 22
+        sellPrice: 11
+      '8':
+        type: item
+        item:
+          material: SAND
+          quantity: 1
+        buyPrice: 5
+        sellPrice: 3
+      '9':
+        type: item
+        item:
+          material: GRAVEL
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 5
+      '10':
+        type: item
+        item:
+          material: GOLD_ORE
+          quantity: 1
+        buyPrice: 500
+        sellPrice: 250
+      '11':
+        type: item
+        item:
+          material: IRON_ORE
+          quantity: 1
+        buyPrice: 200
+        sellPrice: 100
+      '12':
+        type: item
+        item:
+          material: COAL_ORE
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 25
+      '13':
+        type: item
+        item:
+          material: LOG
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 5
+      '14':
+        type: item
+        item:
+          material: LOG
+          quantity: 1
+          damage: 1
+        buyPrice: 26
+        sellPrice: 13
+      '15':
+        type: item
+        item:
+          material: LOG
+          quantity: 1
+          damage: 2
+        buyPrice: 8
+        sellPrice: 4
+      '16':
+        type: item
+        item:
+          material: LOG
+          quantity: 1
+          damage: 3
+        buyPrice: 80
+        sellPrice: 40
+      '17':
+        type: item
+        item:
+          material: SPONGE
+          quantity: 1
+        buyPrice: 114
+        sellPrice: 57
+      '18':
+        type: item
+        item:
+          material: GLASS
+          quantity: 1
+        buyPrice: 9
+        sellPrice: 5
+      '19':
+        type: item
+        item:
+          material: LAPIS_ORE
+          quantity: 1
+        buyPrice: 500
+        sellPrice: 250
+      '20':
+        type: item
+        item:
+          material: LAPIS_BLOCK
+          quantity: 1
+        buyPrice: 422
+        sellPrice: 211
+      '21':
+        type: item
+        item:
+          material: SANDSTONE
+          quantity: 1
+          damage: 0
+        buyPrice: 22
+        sellPrice: 11
+      '22':
+        type: item
+        item:
+          material: SANDSTONE
+          quantity: 1
+          damage: 1
+        buyPrice: 27
+        sellPrice: 13
+      '23':
+        type: item
+        item:
+          material: SANDSTONE
+          quantity: 1
+          damage: 2
+        buyPrice: 6
+        sellPrice: 3
+      '24':
+        type: item
+        item:
+          material: WOOL
+          quantity: 1
+          damage: 0
+        buyPrice: 66
+        sellPrice: 33
+      '25':
+        type: item
+        item:
+          material: WOOL
+          quantity: 1
+          damage: 1
+        buyPrice: 139
+        sellPrice: 70
+      '26':
+        type: item
+        item:
+          material: WOOL
+          quantity: 1
+          damage: 2
+        buyPrice: 130
+        sellPrice: 65
+      '27':
+        type: item
+        item:
+          material: WOOL
+          quantity: 1
+          damage: 3
+        buyPrice: 110
+        sellPrice: 55
+      '28':
+        type: item
+        item:
+          material: WOOL
+          quantity: 1
+          damage: 4
+        buyPrice: 133
+        sellPrice: 67
+      '29':
+        type: item
+        item:
+          material: WOOL
+          quantity: 1
+          damage: 5
+        buyPrice: 136
+        sellPrice: 68
+      '30':
+        type: item
+        item:
+          material: WOOL
+          quantity: 1
+          damage: 6
+        buyPrice: 117
+        sellPrice: 58
+      '31':
+        type: item
+        item:
+          material: WOOL
+          quantity: 1
+          damage: 7
+        buyPrice: 114
+        sellPrice: 57
+      '32':
+        type: item
+        item:
+          material: WOOL
+          quantity: 1
+          damage: 8
+        buyPrice: 106
+        sellPrice: 53
+      '33':
+        type: item
+        item:
+          material: WOOL
+          quantity: 1
+          damage: 9
+        buyPrice: 151
+        sellPrice: 75
+      '34':
+        type: item
+        item:
+          material: WOOL
+          quantity: 1
+          damage: 10
+        buyPrice: 132
+        sellPrice: 66
+      '35':
+        type: item
+        item:
+          material: WOOL
+          quantity: 1
+          damage: 11
+        buyPrice: 120
+        sellPrice: 60
+      '36':
+        type: item
+        item:
+          material: WOOL
+          quantity: 1
+          damage: 12
+        buyPrice: 74
+        sellPrice: 37
+      '37':
+        type: item
+        item:
+          material: WOOL
+          quantity: 1
+          damage: 13
+        buyPrice: 167
+        sellPrice: 84
+      '38':
+        type: item
+        item:
+          material: WOOL
+          quantity: 1
+          damage: 14
+        buyPrice: 133
+        sellPrice: 67
+      '39':
+        type: item
+        item:
+          material: WOOL
+          quantity: 1
+          damage: 15
+        buyPrice: 128
+        sellPrice: 64
+      '40':
+        type: item
+        item:
+          material: GOLD_BLOCK
+          quantity: 1
+        buyPrice: 5482
+        sellPrice: 2741
+      '41':
+        type: item
+        item:
+          material: IRON_BLOCK
+          quantity: 1
+        buyPrice: 2215
+        sellPrice: 1107
+      '42':
+        type: item
+        item:
+          material: STEP
+          quantity: 1
+          damage: 0
+        buyPrice: 2
+        sellPrice: 1
+      '43':
+        type: item
+        item:
+          material: STEP
+          quantity: 1
+          damage: 1
+        buyPrice: 12
+        sellPrice: 6
+      '44':
+        type: item
+        item:
+          material: STEP
+          quantity: 1
+          damage: 3
+        buyPrice: 2
+        sellPrice: 1
+      '45':
+        type: item
+        item:
+          material: STEP
+          quantity: 1
+          damage: 4
+        buyPrice: 62
+        sellPrice: 31
+      '46':
+        type: item
+        item:
+          material: STEP
+          quantity: 1
+          damage: 5
+        buyPrice: 2
+        sellPrice: 1
+      '47':
+        type: item
+        item:
+          material: STEP
+          quantity: 1
+          damage: 6
+        buyPrice: 17
+        sellPrice: 9
+      '48':
+        type: item
+        item:
+          material: STEP
+          quantity: 1
+          damage: 7
+        buyPrice: 178
+        sellPrice: 89
+      '49':
+        type: item
+        item:
+          material: STAINED_CLAY
+          quantity: 1
+          damage: 10
+        buyPrice: 335
+        sellPrice: 168
+      '50':
+        type: item
+        item:
+          material: STAINED_CLAY
+          quantity: 1
+          damage: 11
+        buyPrice: 334
+        sellPrice: 167
+      '51':
+        type: item
+        item:
+          material: STAINED_CLAY
+          quantity: 1
+          damage: 12
+        buyPrice: 328
+        sellPrice: 164
+      '52':
+        type: item
+        item:
+          material: STAINED_CLAY
+          quantity: 1
+          damage: 13
+        buyPrice: 340
+        sellPrice: 170
+      '53':
+        type: item
+        item:
+          material: STAINED_CLAY
+          quantity: 1
+          damage: 14
+        buyPrice: 335
+        sellPrice: 168
+      '54':
+        type: item
+        item:
+          material: STAINED_CLAY
+          quantity: 1
+          damage: 15
+        buyPrice: 335
+        sellPrice: 167
+      '127':
+        type: item
+        item:
+          material: STAINED_CLAY
+          quantity: 1
+        buyPrice: 330
+        sellPrice: 165
+      '128':
+        type: item
+        item:
+          material: STAINED_CLAY
+          quantity: 1
+          damage: 1
+        buyPrice: 336
+        sellPrice: 168
+      '129':
+        type: item
+        item:
+          material: STAINED_CLAY
+          quantity: 1
+          damage: 2
+        buyPrice: 335
+        sellPrice: 167
+      '130':
+        type: item
+        item:
+          material: STAINED_CLAY
+          quantity: 1
+          damage: 3
+        buyPrice: 332
+        sellPrice: 166
+      '131':
+        type: item
+        item:
+          material: STAINED_CLAY
+          quantity: 1
+          damage: 4
+        buyPrice: 335
+        sellPrice: 168
+      '132':
+        type: item
+        item:
+          material: STAINED_CLAY
+          quantity: 1
+          damage: 5
+        buyPrice: 336
+        sellPrice: 168
+      '133':
+        type: item
+        item:
+          material: STAINED_CLAY
+          quantity: 1
+          damage: 6
+        buyPrice: 333
+        sellPrice: 167
+      '134':
+        type: item
+        item:
+          material: STAINED_CLAY
+          quantity: 1
+          damage: 7
+        buyPrice: 333
+        sellPrice: 167
+      '135':
+        type: item
+        item:
+          material: STAINED_CLAY
+          quantity: 1
+          damage: 8
+        buyPrice: 332
+        sellPrice: 166
+      '136':
+        type: item
+        item:
+          material: STAINED_CLAY
+          quantity: 1
+          damage: 9
+        buyPrice: 338
+        sellPrice: 169
+      '55':
+        type: item
+        item:
+          material: HAY_BLOCK
+          quantity: 1
+        buyPrice: 297
+        sellPrice: 149
+      '56':
+        type: item
+        item:
+          material: HARD_CLAY
+          quantity: 1
+        buyPrice: 298
+        sellPrice: 149
+      '57':
+        type: item
+        item:
+          material: COAL_BLOCK
+          quantity: 1
+        buyPrice: 268
+        sellPrice: 134
+      '58':
+        type: item
+        item:
+          material: LOG_2
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 10
+      '59':
+        type: item
+        item:
+          material: LOG_2
+          quantity: 1
+          damage: 1
+        buyPrice: 35
+        sellPrice: 18
+      '60':
+        type: item
+        item:
+          material: WOOD
+          quantity: 1
+          damage: 4
+        buyPrice: 6
+        sellPrice: 3
+      '61':
+        type: item
+        item:
+          material: WOOD
+          quantity: 1
+          damage: 5
+        buyPrice: 10
+        sellPrice: 5
+      '62':
+        type: item
+        item:
+          material: WOOD_STEP
+          quantity: 1
+          damage: 5
+        buyPrice: 19
+        sellPrice: 10
+      '63':
+        type: item
+        item:
+          material: WOOD_STEP
+          quantity: 1
+          damage: 4
+        buyPrice: 11
+        sellPrice: 6
+      '64':
+        type: item
+        item:
+          material: ACACIA_STAIRS
+          quantity: 1
+        buyPrice: 9
+        sellPrice: 5
+      '65':
+        type: item
+        item:
+          material: DARK_OAK_STAIRS
+          quantity: 1
+        buyPrice: 16
+        sellPrice: 8
+      '66':
+        type: item
+        item:
+          material: DIRT
+          quantity: 1
+          damage: 2
+        buyPrice: 6
+        sellPrice: 3
+      '67':
+        type: item
+        item:
+          material: SAND
+          quantity: 1
+          damage: 1
+        buyPrice: 44
+        sellPrice: 22
+      '68':
+        type: item
+        item:
+          material: PACKED_ICE
+          quantity: 1
+        buyPrice: 30
+        sellPrice: 15
+      '69':
+        type: item
+        item:
+          material: STONE
+          quantity: 1
+          damage: 1
+        buyPrice: 81
+        sellPrice: 41
+      '70':
+        type: item
+        item:
+          material: STONE
+          quantity: 1
+          damage: 2
+        buyPrice: 89
+        sellPrice: 45
+      '71':
+        type: item
+        item:
+          material: STONE
+          quantity: 1
+          damage: 3
+        buyPrice: 81
+        sellPrice: 41
+      '72':
+        type: item
+        item:
+          material: STONE
+          quantity: 1
+          damage: 4
+        buyPrice: 89
+        sellPrice: 45
+      '73':
+        type: item
+        item:
+          material: STONE
+          quantity: 1
+          damage: 5
+        buyPrice: 45
+        sellPrice: 22
+      '74':
+        type: item
+        item:
+          material: STONE
+          quantity: 1
+          damage: 6
+        buyPrice: 49
+        sellPrice: 25
+      '75':
+        type: item
+        item:
+          material: PRISMARINE
+          quantity: 1
+        buyPrice: 220
+        sellPrice: 110
+      '76':
+        type: item
+        item:
+          material: PRISMARINE
+          quantity: 1
+          damage: 1
+        buyPrice: 495
+        sellPrice: 248
+      '77':
+        type: item
+        item:
+          material: PRISMARINE
+          quantity: 1
+          damage: 2
+        buyPrice: 495
+        sellPrice: 248
+      '78':
+        type: item
+        item:
+          material: BONE_BLOCK
+          quantity: 1
+        buyPrice: 450
+        sellPrice: 225
+      '79':
+        type: item
+        item:
+          material: MAGMA
+          quantity: 1
+        buyPrice: 70
+        sellPrice: 35
+      '80':
+        type: item
+        item:
+          material: RED_NETHER_BRICK
+          quantity: 1
+        buyPrice: 62
+        sellPrice: 31
+      '81':
+        type: item
+        item:
+          material: NETHER_WART_BLOCK
+          quantity: 1
+        buyPrice: 15
+        sellPrice: 7
+      '82':
+        type: item
+        item:
+          material: BRICK
+          quantity: 1
+        buyPrice: 113
+        sellPrice: 57
+      '83':
+        type: item
+        item:
+          material: BOOKSHELF
+          quantity: 1
+        buyPrice: 3185
+        sellPrice: 1592
+      '84':
+        type: item
+        item:
+          material: MOSSY_COBBLESTONE
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 25
+      '85':
+        type: item
+        item:
+          material: OBSIDIAN
+          quantity: 1
+        buyPrice: 11
+        sellPrice: 6
+      '86':
+        type: item
+        item:
+          material: WOOD_STAIRS
+          quantity: 1
+        buyPrice: 4
+        sellPrice: 2
+      '87':
+        type: item
+        item:
+          material: DIAMOND_ORE
+          quantity: 1
+        buyPrice: 2000
+        sellPrice: 1000
+      '88':
+        type: item
+        item:
+          material: DIAMOND_BLOCK
+          quantity: 1
+        buyPrice: 9268
+        sellPrice: 4634
+      '89':
+        type: item
+        item:
+          material: COBBLESTONE_STAIRS
+          quantity: 1
+        buyPrice: 5
+        sellPrice: 2
+      '90':
+        type: item
+        item:
+          material: REDSTONE_ORE
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 150
+      '91':
+        type: item
+        item:
+          material: ICE
+          quantity: 1
+        buyPrice: 33
+        sellPrice: 17
+      '92':
+        type: item
+        item:
+          material: SNOW_BLOCK
+          quantity: 1
+        buyPrice: 13
+        sellPrice: 7
+      '93':
+        type: item
+        item:
+          material: CLAY
+          quantity: 1
+        buyPrice: 88
+        sellPrice: 44
+      '94':
+        type: item
+        item:
+          material: PUMPKIN
+          quantity: 1
+        buyPrice: 30
+        sellPrice: 15
+      '95':
+        type: item
+        item:
+          material: NETHERRACK
+          quantity: 1
+        buyPrice: 3
+        sellPrice: 2
+      '96':
+        type: item
+        item:
+          material: SOUL_SAND
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 5
+      '97':
+        type: item
+        item:
+          material: GLOWSTONE
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 25
+      '98':
+        type: item
+        item:
+          material: JACK_O_LANTERN
+          quantity: 1
+        buyPrice: 42
+        sellPrice: 21
+      '99':
+        type: item
+        item:
+          material: SMOOTH_BRICK
+          quantity: 1
+        buyPrice: 8
+        sellPrice: 4
+      '100':
+        type: item
+        item:
+          material: SMOOTH_BRICK
+          quantity: 1
+          damage: 1
+        buyPrice: 42
+        sellPrice: 21
+      '101':
+        type: item
+        item:
+          material: SMOOTH_BRICK
+          quantity: 1
+          damage: 2
+        buyPrice: 150
+        sellPrice: 75
+      '102':
+        type: item
+        item:
+          material: SMOOTH_BRICK
+          quantity: 1
+          damage: 3
+        buyPrice: 9
+        sellPrice: 5
+      '103':
+        type: item
+        item:
+          material: MELON_BLOCK
+          quantity: 1
+        buyPrice: 99
+        sellPrice: 50
+      '104':
+        type: item
+        item:
+          material: BRICK_STAIRS
+          quantity: 1
+        buyPrice: 187
+        sellPrice: 93
+      '105':
+        type: item
+        item:
+          material: SMOOTH_STAIRS
+          quantity: 1
+        buyPrice: 13
+        sellPrice: 6
+      '106':
+        type: item
+        item:
+          material: MYCEL
+          quantity: 1
+        buyPrice: 5
+        sellPrice: 2
+      '107':
+        type: item
+        item:
+          material: NETHER_BRICK
+          quantity: 1
+        buyPrice: 31
+        sellPrice: 15
+      '108':
+        type: item
+        item:
+          material: NETHER_BRICK_STAIRS
+          quantity: 1
+        buyPrice: 51
+        sellPrice: 26
+      '109':
+        type: item
+        item:
+          material: ENDER_STONE
+          quantity: 1
+        buyPrice: 3
+        sellPrice: 2
+      '110':
+        type: item
+        item:
+          material: WOOD_STEP
+          quantity: 1
+        buyPrice: 1
+        sellPrice: 1
+      '111':
+        type: item
+        item:
+          material: WOOD_STEP
+          quantity: 1
+          damage: 1
+        buyPrice: 4
+        sellPrice: 2
+      '112':
+        type: item
+        item:
+          material: WOOD_STEP
+          quantity: 1
+          damage: 2
+        buyPrice: 1
+        sellPrice: 1
+      '113':
+        type: item
+        item:
+          material: WOOD_STEP
+          quantity: 1
+          damage: 3
+        buyPrice: 12
+        sellPrice: 6
+      '114':
+        type: item
+        item:
+          material: SANDSTONE_STAIRS
+          quantity: 1
+        buyPrice: 36
+        sellPrice: 18
+      '115':
+        type: item
+        item:
+          material: EMERALD_ORE
+          quantity: 1
+        buyPrice: 3000
+        sellPrice: 1500
+      '116':
+        type: item
+        item:
+          material: EMERALD_BLOCK
+          quantity: 1
+        buyPrice: 14783
+        sellPrice: 7391
+      '117':
+        type: item
+        item:
+          material: SPRUCE_WOOD_STAIRS
+          quantity: 1
+        buyPrice: 12
+        sellPrice: 6
+      '118':
+        type: item
+        item:
+          material: BIRCH_WOOD_STAIRS
+          quantity: 1
+        buyPrice: 4
+        sellPrice: 2
+      '119':
+        type: item
+        item:
+          material: JUNGLE_WOOD_STAIRS
+          quantity: 1
+        buyPrice: 36
+        sellPrice: 18
+      '120':
+        type: item
+        item:
+          material: COBBLE_WALL
+          quantity: 1
+        buyPrice: 3
+        sellPrice: 2
+      '121':
+        type: item
+        item:
+          material: COBBLE_WALL
+          quantity: 1
+          damage: 1
+        buyPrice: 55
+        sellPrice: 28
+      '122':
+        type: item
+        item:
+          material: QUARTZ_ORE
+          quantity: 1
+        buyPrice: 150
+        sellPrice: 75
+      '123':
+        type: item
+        item:
+          material: QUARTZ_BLOCK
+          quantity: 1
+        buyPrice: 324
+        sellPrice: 162
+      '124':
+        type: item
+        item:
+          material: QUARTZ_BLOCK
+          quantity: 1
+          damage: 1
+        buyPrice: 392
+        sellPrice: 196
+      '125':
+        type: item
+        item:
+          material: QUARTZ_BLOCK
+          quantity: 1
+          damage: 2
+        buyPrice: 357
+        sellPrice: 178
+      '126':
+        type: item
+        item:
+          material: QUARTZ_STAIRS
+          quantity: 1
+        buyPrice: 535
+        sellPrice: 267
+      '137':
+        type: item
+        item:
+          material: STAINED_GLASS
+          quantity: 1
+          damage: 0
+        buyPrice: 13
+        sellPrice: 6
+      '138':
+        type: item
+        item:
+          material: STAINED_GLASS
+          quantity: 1
+          damage: 1
+        buyPrice: 18
+        sellPrice: 9
+      '139':
+        type: item
+        item:
+          material: STAINED_GLASS
+          quantity: 1
+          damage: 2
+        buyPrice: 17
+        sellPrice: 9
+      '140':
+        type: item
+        item:
+          material: STAINED_GLASS
+          quantity: 1
+          damage: 3
+        buyPrice: 15
+        sellPrice: 7
+      '141':
+        type: item
+        item:
+          material: STAINED_GLASS
+          quantity: 1
+          damage: 4
+        buyPrice: 18
+        sellPrice: 9
+      '142':
+        type: item
+        item:
+          material: STAINED_GLASS
+          quantity: 1
+          damage: 5
+        buyPrice: 18
+        sellPrice: 9
+      '143':
+        type: item
+        item:
+          material: STAINED_GLASS
+          quantity: 1
+          damage: 6
+        buyPrice: 16
+        sellPrice: 7
+      '144':
+        type: item
+        item:
+          material: STAINED_GLASS
+          quantity: 1
+          damage: 7
+        buyPrice: 15
+        sellPrice: 8
+      '145':
+        type: item
+        item:
+          material: STAINED_GLASS
+          quantity: 1
+          damage: 8
+        buyPrice: 14
+        sellPrice: 7
+      '146':
+        type: item
+        item:
+          material: STAINED_GLASS
+          quantity: 1
+          damage: 9
+        buyPrice: 20
+        sellPrice: 10
+      '147':
+        type: item
+        item:
+          material: STAINED_GLASS
+          quantity: 1
+          damage: 10
+        buyPrice: 18
+        sellPrice: 9
+      '148':
+        type: item
+        item:
+          material: STAINED_GLASS
+          quantity: 1
+          damage: 11
+        buyPrice: 16
+        sellPrice: 8
+      '149':
+        type: item
+        item:
+          material: STAINED_GLASS
+          quantity: 1
+          damage: 12
+        buyPrice: 10
+        sellPrice: 5
+      '150':
+        type: item
+        item:
+          material: STAINED_GLASS
+          quantity: 1
+          damage: 13
+        buyPrice: 22
+        sellPrice: 11
+      '151':
+        type: item
+        item:
+          material: STAINED_GLASS
+          quantity: 1
+          damage: 14
+        buyPrice: 18
+        sellPrice: 9
+      '152':
+        type: item
+        item:
+          material: STAINED_GLASS
+          quantity: 1
+          damage: 15
+        buyPrice: 17
+        sellPrice: 9
+      '153':
+        type: item
+        item:
+          material: RED_SANDSTONE
+          quantity: 1
+        buyPrice: 44
+        sellPrice: 22
+      '154':
+        type: item
+        item:
+          material: RED_SANDSTONE
+          quantity: 1
+          damage: 2
+        buyPrice: 48
+        sellPrice: 24
+      '155':
+        type: item
+        item:
+          material: RED_SANDSTONE
+          quantity: 1
+          damage: 1
+        buyPrice: 53
+        sellPrice: 27
+      '156':
+        type: item
+        item:
+          material: RED_SANDSTONE_STAIRS
+          quantity: 1
+        buyPrice: 73
+        sellPrice: 36
+      '157':
+        type: item
+        item:
+          material: STONE_SLAB2
+          quantity: 1
+        buyPrice: 24
+        sellPrice: 12
+      '158':
+        type: item
+        item:
+          material: SEA_LANTERN
+          quantity: 1
+        buyPrice: 660
+        sellPrice: 330
+      '159':
+        type: item
+        item:
+          material: SLIME_BLOCK
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 5
+      '160':
+        type: item
+        item:
+          material: PURPUR_BLOCK
+          quantity: 1
+        buyPrice: 8
+        sellPrice: 4
+      '161':
+        type: item
+        item:
+          material: PURPUR_PILLAR
+          quantity: 1
+        buyPrice: 9
+        sellPrice: 5
+      '162':
+        type: item
+        item:
+          material: PURPUR_STAIRS
+          quantity: 1
+        buyPrice: 11
+        sellPrice: 6
+      '163':
+        type: item
+        item:
+          material: PURPUR_SLAB
+          quantity: 1
+        buyPrice: 4
+        sellPrice: 2
+      '164':
+        type: item
+        item:
+          material: END_BRICKS
+          quantity: 1
+        buyPrice: 3
+        sellPrice: 2
+      '165':
+        type: item
+        item:
+          material: CONCRETE
+          quantity: 1
+          damage: 0
+        buyPrice: 155
+        sellPrice: 74
+      '166':
+        type: item
+        item:
+          material: CONCRETE
+          quantity: 1
+          damage: 1
+        buyPrice: 155
+        sellPrice: 74
+      '167':
+        type: item
+        item:
+          material: CONCRETE
+          quantity: 1
+          damage: 2
+        buyPrice: 155
+        sellPrice: 74
+      '168':
+        type: item
+        item:
+          material: CONCRETE
+          quantity: 1
+          damage: 3
+        buyPrice: 155
+        sellPrice: 74
+      '169':
+        type: item
+        item:
+          material: CONCRETE
+          quantity: 1
+          damage: 4
+        buyPrice: 155
+        sellPrice: 74
+      '170':
+        type: item
+        item:
+          material: CONCRETE
+          quantity: 1
+          damage: 5
+        buyPrice: 155
+        sellPrice: 74
+      '171':
+        type: item
+        item:
+          material: CONCRETE
+          quantity: 1
+          damage: 6
+        buyPrice: 155
+        sellPrice: 74
+      '172':
+        type: item
+        item:
+          material: CONCRETE
+          quantity: 1
+          damage: 7
+        buyPrice: 155
+        sellPrice: 74
+      '173':
+        type: item
+        item:
+          material: CONCRETE
+          quantity: 1
+          damage: 8
+        buyPrice: 155
+        sellPrice: 74
+      '174':
+        type: item
+        item:
+          material: CONCRETE
+          quantity: 1
+          damage: 9
+        buyPrice: 155
+        sellPrice: 74
+      '175':
+        type: item
+        item:
+          material: CONCRETE
+          quantity: 1
+          damage: 10
+        buyPrice: 155
+        sellPrice: 74
+      '176':
+        type: item
+        item:
+          material: CONCRETE
+          quantity: 1
+          damage: 11
+        buyPrice: 155
+        sellPrice: 74
+      '177':
+        type: item
+        item:
+          material: CONCRETE
+          quantity: 1
+          damage: 12
+        buyPrice: 155
+        sellPrice: 74
+      '178':
+        type: item
+        item:
+          material: CONCRETE
+          quantity: 1
+          damage: 13
+        buyPrice: 155
+        sellPrice: 74
+      '179':
+        type: item
+        item:
+          material: CONCRETE
+          quantity: 1
+          damage: 14
+        buyPrice: 155
+        sellPrice: 74
+      '180':
+        type: item
+        item:
+          material: CONCRETE
+          quantity: 1
+          damage: 15
+        buyPrice: 155
+        sellPrice: 74
+      '181':
+        type: item
+        item:
+          material: CONCRETE_POWDER
+          quantity: 1
+          damage: 0
+        buyPrice: 62
+        sellPrice: 30
+      '182':
+        type: item
+        item:
+          material: CONCRETE_POWDER
+          quantity: 1
+          damage: 1
+        buyPrice: 67
+        sellPrice: 30
+      '183':
+        type: item
+        item:
+          material: CONCRETE_POWDER
+          quantity: 1
+          damage: 2
+        buyPrice: 66
+        sellPrice: 30
+      '184':
+        type: item
+        item:
+          material: CONCRETE_POWDER
+          quantity: 1
+          damage: 3
+        buyPrice: 64
+        sellPrice: 30
+      '185':
+        type: item
+        item:
+          material: CONCRETE_POWDER
+          quantity: 1
+          damage: 4
+        buyPrice: 67
+        sellPrice: 30
+      '186':
+        type: item
+        item:
+          material: CONCRETE_POWDER
+          quantity: 1
+          damage: 5
+        buyPrice: 67
+        sellPrice: 30
+      '187':
+        type: item
+        item:
+          material: CONCRETE_POWDER
+          quantity: 1
+          damage: 6
+        buyPrice: 65
+        sellPrice: 30
+      '188':
+        type: item
+        item:
+          material: CONCRETE_POWDER
+          quantity: 1
+          damage: 7
+        buyPrice: 65
+        sellPrice: 30
+      '189':
+        type: item
+        item:
+          material: CONCRETE_POWDER
+          quantity: 1
+          damage: 8
+        buyPrice: 64
+        sellPrice: 30
+      '190':
+        type: item
+        item:
+          material: CONCRETE_POWDER
+          quantity: 1
+          damage: 9
+        buyPrice: 68
+        sellPrice: 30
+      '191':
+        type: item
+        item:
+          material: CONCRETE_POWDER
+          quantity: 1
+          damage: 10
+        buyPrice: 66
+        sellPrice: 30
+      '192':
+        type: item
+        item:
+          material: CONCRETE_POWDER
+          quantity: 1
+          damage: 11
+        buyPrice: 65
+        sellPrice: 30
+      '193':
+        type: item
+        item:
+          material: CONCRETE_POWDER
+          quantity: 1
+          damage: 12
+        buyPrice: 61
+        sellPrice: 30
+      '194':
+        type: item
+        item:
+          material: CONCRETE_POWDER
+          quantity: 1
+          damage: 13
+        buyPrice: 70
+        sellPrice: 30
+      '195':
+        type: item
+        item:
+          material: CONCRETE_POWDER
+          quantity: 1
+          damage: 14
+        buyPrice: 67
+        sellPrice: 30
+      '196':
+        type: item
+        item:
+          material: CONCRETE_POWDER
+          quantity: 1
+          damage: 15
+        buyPrice: 66
+        sellPrice: 30
+      '197':
+        type: item
+        item:
+          material: WHITE_GLAZED_TERRACOTTA
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 100
+      '198':
+        type: item
+        item:
+          material: ORANGE_GLAZED_TERRACOTTA
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 100
+      '199':
+        type: item
+        item:
+          material: MAGENTA_GLAZED_TERRACOTTA
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 100
+      '200':
+        type: item
+        item:
+          material: LIGHT_BLUE_GLAZED_TERRACOTTA
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 100
+      '201':
+        type: item
+        item:
+          material: YELLOW_GLAZED_TERRACOTTA
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 100
+      '202':
+        type: item
+        item:
+          material: LIME_GLAZED_TERRACOTTA
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 100
+      '203':
+        type: item
+        item:
+          material: PINK_GLAZED_TERRACOTTA
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 100
+      '204':
+        type: item
+        item:
+          material: GRAY_GLAZED_TERRACOTTA
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 100
+      '205':
+        type: item
+        item:
+          material: SILVER_GLAZED_TERRACOTTA
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 100
+      '206':
+        type: item
+        item:
+          material: CYAN_GLAZED_TERRACOTTA
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 100
+      '207':
+        type: item
+        item:
+          material: PURPLE_GLAZED_TERRACOTTA
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 100
+      '208':
+        type: item
+        item:
+          material: BLUE_GLAZED_TERRACOTTA
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 100
+      '209':
+        type: item
+        item:
+          material: BROWN_GLAZED_TERRACOTTA
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 100
+      '210':
+        type: item
+        item:
+          material: GREEN_GLAZED_TERRACOTTA
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 100
+      '211':
+        type: item
+        item:
+          material: RED_GLAZED_TERRACOTTA
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 100
+      '212':
+        type: item
+        item:
+          material: BLACK_GLAZED_TERRACOTTA
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 100
+      '213':
+        type: item
+        item:
+          material: DIRT
+          quantity: 1
+          damage: 1
+        buyPrice: 4
+        sellPrice: 2
+  ozdobne:
+    name: '&1Ozdobné blocky &7(strana %page%)'
+    size: 54
+    items:
+      BALANCE:
+        type: special
+        special: BALANCE
+        slot: 50
+      '0':
+        type: item
+        item:
+          material: SAPLING
+          quantity: 1
+        buyPrice: 3
+        sellPrice: 2
+      '1':
+        type: item
+        item:
+          material: SAPLING
+          quantity: 1
+          damage: 1
+        buyPrice: 3
+        sellPrice: 2
+      '2':
+        type: item
+        item:
+          material: SAPLING
+          quantity: 1
+          damage: 2
+        buyPrice: 3
+        sellPrice: 2
+      '3':
+        type: item
+        item:
+          material: SAPLING
+          quantity: 1
+          damage: 3
+        buyPrice: 8
+        sellPrice: 4
+      '4':
+        type: item
+        item:
+          material: LEAVES
+          quantity: 1
+        buyPrice: 1
+        sellPrice: 0
+      '5':
+        type: item
+        item:
+          material: LEAVES
+          quantity: 1
+          damage: 1
+        buyPrice: 3
+        sellPrice: 1
+      '6':
+        type: item
+        item:
+          material: LEAVES
+          quantity: 1
+          damage: 2
+        buyPrice: 8
+        sellPrice: 4
+      '7':
+        type: item
+        item:
+          material: LEAVES
+          quantity: 1
+          damage: 3
+        buyPrice: 8
+        sellPrice: 4
+      '8':
+        type: item
+        item:
+          material: WEB
+          quantity: 1
+        buyPrice: 150
+        sellPrice: 75
+      '9':
+        type: item
+        item:
+          material: LONG_GRASS
+          quantity: 1
+          damage: 1
+        buyPrice: 100
+        sellPrice: -1
+      '10':
+        type: item
+        item:
+          material: LONG_GRASS
+          quantity: 1
+          damage: 2
+        buyPrice: 100
+        sellPrice: -1
+      '11':
+        type: item
+        item:
+          material: DEAD_BUSH
+          quantity: 1
+        buyPrice: 100
+        sellPrice: -1
+      '12':
+        type: item
+        item:
+          material: YELLOW_FLOWER
+          quantity: 1
+        buyPrice: 100
+        sellPrice: -1
+      '13':
+        type: item
+        item:
+          material: RED_ROSE
+          quantity: 1
+        buyPrice: 100
+        sellPrice: -1
+      '14':
+        type: item
+        item:
+          material: BROWN_MUSHROOM
+          quantity: 1
+        buyPrice: 50
+        sellPrice: -1
+      '15':
+        type: item
+        item:
+          material: RED_MUSHROOM
+          quantity: 1
+        buyPrice: 50
+        sellPrice: -1
+      '16':
+        type: item
+        item:
+          material: TORCH
+          quantity: 1
+        buyPrice: 8
+        sellPrice: 4
+      '17':
+        type: item
+        item:
+          material: CHEST
+          quantity: 1
+        buyPrice: 23
+        sellPrice: 12
+      '18':
+        type: item
+        item:
+          material: WORKBENCH
+          quantity: 1
+        buyPrice: 12
+        sellPrice: 6
+      '19':
+        type: item
+        item:
+          material: FURNACE
+          quantity: 1
+        buyPrice: 26
+        sellPrice: 13
+      '20':
+        type: item
+        item:
+          material: LADDER
+          quantity: 1
+        buyPrice: 4
+        sellPrice: 2
+      '21':
+        type: item
+        item:
+          material: SNOW
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 4
+      '22':
+        type: item
+        item:
+          material: CACTUS
+          quantity: 1
+        buyPrice: 75
+        sellPrice: -1
+      '23':
+        type: item
+        item:
+          material: FENCE
+          quantity: 1
+        buyPrice: 5
+        sellPrice: 2
+      '24':
+        type: item
+        item:
+          material: IRON_FENCE
+          quantity: 1
+        buyPrice: 92
+        sellPrice: 46
+      '25':
+        type: item
+        item:
+          material: THIN_GLASS
+          quantity: 1
+        buyPrice: 4
+        sellPrice: 2
+      '26':
+        type: item
+        item:
+          material: VINE
+          quantity: 1
+        buyPrice: 30
+        sellPrice: -1
+      '27':
+        type: item
+        item:
+          material: WATER_LILY
+          quantity: 1
+        buyPrice: 50
+        sellPrice: -1
+      '28':
+        type: item
+        item:
+          material: NETHER_FENCE
+          quantity: 1
+        buyPrice: 102
+        sellPrice: 51
+      '29':
+        type: item
+        item:
+          material: ENCHANTMENT_TABLE
+          quantity: 1
+        buyPrice: 3164
+        sellPrice: 1582
+      '30':
+        type: item
+        item:
+          material: ENDER_CHEST
+          quantity: 1
+        buyPrice: 136
+        sellPrice: 68
+      '31':
+        type: item
+        item:
+          material: ANVIL
+          quantity: 1
+        buyPrice: 8293
+        sellPrice: 4147
+      '32':
+        type: item
+        item:
+          material: TRAPPED_CHEST
+          quantity: 1
+        buyPrice: 163
+        sellPrice: 82
+      '33':
+        type: item
+        item:
+          material: PAINTING
+          quantity: 1
+        buyPrice: 85
+        sellPrice: 43
+      '34':
+        type: item
+        item:
+          material: SIGN
+          quantity: 1
+        buyPrice: 6
+        sellPrice: 3
+      '35':
+        type: item
+        item:
+          material: BED
+          quantity: 1
+          damage: 0
+        buyPrice: 226
+        sellPrice: 113
+      '360':
+        type: item
+        item:
+          material: BED
+          quantity: 1
+          damage: 1
+        buyPrice: 226
+        sellPrice: 113
+      '370':
+        type: item
+        item:
+          material: BED
+          quantity: 1
+          damage: 2
+        buyPrice: 226
+        sellPrice: 113
+      '380':
+        type: item
+        item:
+          material: BED
+          quantity: 1
+          damage: 3
+        buyPrice: 226
+        sellPrice: 113
+      '390':
+        type: item
+        item:
+          material: BED
+          quantity: 1
+          damage: 4
+        buyPrice: 226
+        sellPrice: 113
+      '400':
+        type: item
+        item:
+          material: BED
+          quantity: 1
+          damage: 5
+        buyPrice: 226
+        sellPrice: 113
+      '410':
+        type: item
+        item:
+          material: BED
+          quantity: 1
+          damage: 6
+        buyPrice: 226
+        sellPrice: 113
+      '420':
+        type: item
+        item:
+          material: BED
+          quantity: 1
+          damage: 7
+        buyPrice: 226
+        sellPrice: 113
+      '430':
+        type: item
+        item:
+          material: BED
+          quantity: 1
+          damage: 8
+        buyPrice: 226
+        sellPrice: 113
+      '440':
+        type: item
+        item:
+          material: BED
+          quantity: 1
+          damage: 9
+        buyPrice: 226
+        sellPrice: 113
+      '450':
+        type: item
+        item:
+          material: BED
+          quantity: 1
+          damage: 10
+        buyPrice: 226
+        sellPrice: 113
+      '460':
+        type: item
+        item:
+          material: BED
+          quantity: 1
+          damage: 11
+        buyPrice: 226
+        sellPrice: 113
+      '470':
+        type: item
+        item:
+          material: BED
+          quantity: 1
+          damage: 12
+        buyPrice: 226
+        sellPrice: 113
+      '480':
+        type: item
+        item:
+          material: BED
+          quantity: 1
+          damage: 13
+        buyPrice: 226
+        sellPrice: 113
+      '490':
+        type: item
+        item:
+          material: BED
+          quantity: 1
+          damage: 14
+        buyPrice: 226
+        sellPrice: 113
+      '500':
+        type: item
+        item:
+          material: BED
+          quantity: 1
+          damage: 15
+        buyPrice: 226
+        sellPrice: 113
+      '36':
+        type: item
+        item:
+          material: ITEM_FRAME
+          quantity: 1
+        buyPrice: 700
+        sellPrice: 350
+      '37':
+        type: item
+        item:
+          material: FLOWER_POT_ITEM
+          quantity: 1
+        buyPrice: 85
+        sellPrice: 42
+      '38':
+        type: item
+        item:
+          material: CARPET
+          quantity: 1
+          damage: 10
+        buyPrice: 97
+        sellPrice: 48
+      '39':
+        type: item
+        item:
+          material: CARPET
+          quantity: 1
+          damage: 9
+        buyPrice: 110
+        sellPrice: 55
+      '40':
+        type: item
+        item:
+          material: CARPET
+          quantity: 1
+          damage: 8
+        buyPrice: 78
+        sellPrice: 39
+      '41':
+        type: item
+        item:
+          material: CARPET
+          quantity: 1
+          damage: 7
+        buyPrice: 78
+        sellPrice: 39
+      '42':
+        type: item
+        item:
+          material: CARPET
+          quantity: 1
+          damage: 6
+        buyPrice: 86
+        sellPrice: 43
+      '43':
+        type: item
+        item:
+          material: CARPET
+          quantity: 1
+          damage: 5
+        buyPrice: 100
+        sellPrice: 50
+      '44':
+        type: item
+        item:
+          material: CARPET
+          quantity: 1
+          damage: 4
+        buyPrice: 98
+        sellPrice: 49
+      '45':
+        type: item
+        item:
+          material: CARPET
+          quantity: 1
+          damage: 3
+        buyPrice: 80
+        sellPrice: 40
+      '46':
+        type: item
+        item:
+          material: CARPET
+          quantity: 1
+          damage: 2
+        buyPrice: 95
+        sellPrice: 47
+      '47':
+        type: item
+        item:
+          material: CARPET
+          quantity: 1
+          damage: 1
+        buyPrice: 102
+        sellPrice: 51
+      '48':
+        type: item
+        item:
+          material: CARPET
+          quantity: 1
+        buyPrice: 48
+        sellPrice: 24
+      '49':
+        type: item
+        item:
+          material: WHITE_SHULKER_BOX
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+      '50':
+        type: item
+        item:
+          material: ORANGE_SHULKER_BOX
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+      '51':
+        type: item
+        item:
+          material: MAGENTA_SHULKER_BOX
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+      '52':
+        type: item
+        item:
+          material: LIGHT_BLUE_SHULKER_BOX
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+      '53':
+        type: item
+        item:
+          material: YELLOW_SHULKER_BOX
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+      '54':
+        type: item
+        item:
+          material: LIME_SHULKER_BOX
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+      '55':
+        type: item
+        item:
+          material: PINK_SHULKER_BOX
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+      '56':
+        type: item
+        item:
+          material: GRAY_SHULKER_BOX
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+      '57':
+        type: item
+        item:
+          material: SILVER_SHULKER_BOX
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+      '58':
+        type: item
+        item:
+          material: CYAN_SHULKER_BOX
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+      '59':
+        type: item
+        item:
+          material: PURPLE_SHULKER_BOX
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+      '60':
+        type: item
+        item:
+          material: BLUE_SHULKER_BOX
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+      '61':
+        type: item
+        item:
+          material: BROWN_SHULKER_BOX
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+      '62':
+        type: item
+        item:
+          material: GREEN_SHULKER_BOX
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+      '63':
+        type: item
+        item:
+          material: RED_SHULKER_BOX
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+      '64':
+        type: item
+        item:
+          material: BLACK_SHULKER_BOX
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+      '65':
+        type: item
+        item:
+          material: CHORUS_FLOWER
+          quantity: 1
+        buyPrice: 3
+        sellPrice: 2
+      '66':
+        type: item
+        item:
+          material: END_ROD
+          quantity: 1
+        buyPrice: 16
+        sellPrice: 8
+      '67':
+        type: item
+        item:
+          material: END_CRYSTAL
+          quantity: 1
+        buyPrice: 550
+        sellPrice: 275
+      '68':
+        type: item
+        item:
+          material: ARMOR_STAND
+          quantity: 1
+        buyPrice: 14
+        sellPrice: 7
+      '69':
+        type: item
+        item:
+          material: SPRUCE_FENCE
+          quantity: 1
+        buyPrice: 12
+        sellPrice: 6
+      '70':
+        type: item
+        item:
+          material: BIRCH_FENCE
+          quantity: 1
+        buyPrice: 4
+        sellPrice: 2
+      '71':
+        type: item
+        item:
+          material: JUNGLE_FENCE
+          quantity: 1
+        buyPrice: 33
+        sellPrice: 17
+      '72':
+        type: item
+        item:
+          material: DARK_OAK_FENCE
+          quantity: 1
+        buyPrice: 15
+        sellPrice: 8
+      '73':
+        type: item
+        item:
+          material: ACACIA_FENCE
+          quantity: 1
+        buyPrice: 9
+        sellPrice: 5
+      '74':
+        type: item
+        item:
+          material: LEAVES_2
+          quantity: 1
+          damage: 1
+        buyPrice: 4
+        sellPrice: 2
+      '75':
+        type: item
+        item:
+          material: LEAVES_2
+          quantity: 1
+        buyPrice: 2
+        sellPrice: 1
+      '76':
+        type: item
+        item:
+          material: DOUBLE_PLANT
+          quantity: 1
+          damage: 5
+        buyPrice: 100
+        sellPrice: 50
+      '77':
+        type: item
+        item:
+          material: DOUBLE_PLANT
+          quantity: 1
+          damage: 4
+        buyPrice: 100
+        sellPrice: 50
+      '78':
+        type: item
+        item:
+          material: DOUBLE_PLANT
+          quantity: 1
+          damage: 3
+        buyPrice: 100
+        sellPrice: 50
+      '79':
+        type: item
+        item:
+          material: DOUBLE_PLANT
+          quantity: 1
+          damage: 2
+        buyPrice: 100
+        sellPrice: 50
+      '80':
+        type: item
+        item:
+          material: DOUBLE_PLANT
+          quantity: 1
+          damage: 1
+        buyPrice: 100
+        sellPrice: 50
+      '81':
+        type: item
+        item:
+          material: DOUBLE_PLANT
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 50
+      '82':
+        type: item
+        item:
+          material: RED_ROSE
+          quantity: 1
+          damage: 8
+        buyPrice: 100
+        sellPrice: 50
+      '83':
+        type: item
+        item:
+          material: RED_ROSE
+          quantity: 1
+          damage: 7
+        buyPrice: 100
+        sellPrice: 50
+      '84':
+        type: item
+        item:
+          material: RED_ROSE
+          quantity: 1
+          damage: 6
+        buyPrice: 100
+        sellPrice: 50
+      '85':
+        type: item
+        item:
+          material: RED_ROSE
+          quantity: 1
+          damage: 5
+        buyPrice: 100
+        sellPrice: 50
+      '86':
+        type: item
+        item:
+          material: RED_ROSE
+          quantity: 1
+          damage: 4
+        buyPrice: 100
+        sellPrice: 50
+      '87':
+        type: item
+        item:
+          material: RED_ROSE
+          quantity: 1
+          damage: 3
+        buyPrice: 100
+        sellPrice: 50
+      '88':
+        type: item
+        item:
+          material: RED_ROSE
+          quantity: 1
+          damage: 2
+        buyPrice: 100
+        sellPrice: 50
+      '89':
+        type: item
+        item:
+          material: RED_ROSE
+          quantity: 1
+          damage: 1
+        buyPrice: 100
+        sellPrice: 50
+      '90':
+        type: item
+        item:
+          material: SAPLING
+          quantity: 1
+          damage: 5
+        buyPrice: 7
+        sellPrice: 4
+      '91':
+        type: item
+        item:
+          material: SAPLING
+          quantity: 1
+          damage: 4
+        buyPrice: 5
+        sellPrice: 3
+      '92':
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          quantity: 1
+          damage: 15
+        buyPrice: 7
+        sellPrice: 4
+      '93':
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          quantity: 1
+          damage: 14
+        buyPrice: 7
+        sellPrice: 4
+      '94':
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          quantity: 1
+          damage: 13
+        buyPrice: 9
+        sellPrice: 5
+      '95':
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          quantity: 1
+          damage: 12
+        buyPrice: 4
+        sellPrice: 2
+      '96':
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          quantity: 1
+          damage: 11
+        buyPrice: 7
+        sellPrice: 3
+      '97':
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          quantity: 1
+          damage: 10
+        buyPrice: 7
+        sellPrice: 4
+      '98':
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          quantity: 1
+          damage: 9
+        buyPrice: 8
+        sellPrice: 4
+      '99':
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          quantity: 1
+          damage: 8
+        buyPrice: 6
+        sellPrice: 3
+      '100':
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          quantity: 1
+          damage: 7
+        buyPrice: 6
+        sellPrice: 3
+      '101':
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          quantity: 1
+          damage: 6
+        buyPrice: 6
+        sellPrice: 3
+      '102':
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          quantity: 1
+          damage: 5
+        buyPrice: 7
+        sellPrice: 4
+      '103':
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          quantity: 1
+          damage: 4
+        buyPrice: 7
+        sellPrice: 4
+      '104':
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          quantity: 1
+          damage: 3
+        buyPrice: 6
+        sellPrice: 3
+      '105':
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          quantity: 1
+          damage: 2
+        buyPrice: 7
+        sellPrice: 4
+      '106':
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          quantity: 1
+          damage: 1
+        buyPrice: 8
+        sellPrice: 4
+      '107':
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          quantity: 1
+          damage: 0
+        buyPrice: 5
+        sellPrice: 3
+      '108':
+        type: item
+        item:
+          material: CARPET
+          quantity: 1
+          damage: 15
+        buyPrice: 94
+        sellPrice: 47
+      '109':
+        type: item
+        item:
+          material: CARPET
+          quantity: 1
+          damage: 14
+        buyPrice: 98
+        sellPrice: 49
+      '110':
+        type: item
+        item:
+          material: CARPET
+          quantity: 1
+          damage: 13
+        buyPrice: 123
+        sellPrice: 61
+      '111':
+        type: item
+        item:
+          material: CARPET
+          quantity: 1
+          damage: 12
+        buyPrice: 54
+        sellPrice: 27
+      '112':
+        type: item
+        item:
+          material: CARPET
+          quantity: 1
+          damage: 11
+        buyPrice: 88
+        sellPrice: 44
+      '113':
+        type: item
+        item:
+          material: BANNER
+          quantity: 1
+          damage: 15
+          color: WHITE
+        buyPrice: 123
+        sellPrice: 61
+      '114':
+        type: item
+        item:
+          material: BANNER
+          quantity: 1
+          damage: 14
+          color: ORANGE
+        buyPrice: 401
+        sellPrice: 200
+      '115':
+        type: item
+        item:
+          material: BANNER
+          quantity: 1
+          damage: 13
+          color: MAGENTA
+        buyPrice: 343
+        sellPrice: 171
+      '116':
+        type: item
+        item:
+          material: BANNER
+          quantity: 1
+          damage: 12
+          color: LIGHT_BLUE
+        buyPrice: 223
+        sellPrice: 112
+      '117':
+        type: item
+        item:
+          material: BANNER
+          quantity: 1
+          damage: 11
+          color: YELLOW
+        buyPrice: 365
+        sellPrice: 182
+      '118':
+        type: item
+        item:
+          material: BANNER
+          quantity: 1
+          damage: 10
+          color: LIME
+        buyPrice: 381
+        sellPrice: 191
+      '119':
+        type: item
+        item:
+          material: BANNER
+          quantity: 1
+          damage: 9
+          color: PINK
+        buyPrice: 268
+        sellPrice: 134
+      '120':
+        type: item
+        item:
+          material: BANNER
+          quantity: 1
+          damage: 8
+          color: GRAY
+        buyPrice: 250
+        sellPrice: 125
+      '121':
+        type: item
+        item:
+          material: BANNER
+          quantity: 1
+          damage: 7
+          color: SILVER
+        buyPrice: 205
+        sellPrice: 102
+      '122':
+        type: item
+        item:
+          material: BANNER
+          quantity: 1
+          damage: 6
+          color: CYAN
+        buyPrice: 469
+        sellPrice: 235
+      '123':
+        type: item
+        item:
+          material: BANNER
+          quantity: 1
+          damage: 5
+          color: PURPLE
+        buyPrice: 356
+        sellPrice: 178
+      '124':
+        type: item
+        item:
+          material: BANNER
+          quantity: 1
+          damage: 4
+          color: BLUE
+        buyPrice: 283
+        sellPrice: 142
+      '125':
+        type: item
+        item:
+          material: BANNER
+          quantity: 1
+          damage: 3
+          color: BROWN
+        buyPrice: 8
+        sellPrice: 4
+      '126':
+        type: item
+        item:
+          material: BANNER
+          quantity: 1
+          damage: 2
+          color: GREEN
+        buyPrice: 571
+        sellPrice: 285
+      '127':
+        type: item
+        item:
+          material: BANNER
+          quantity: 1
+          damage: 1
+          color: RED
+        buyPrice: 365
+        sellPrice: 182
+      '128':
+        type: item
+        item:
+          material: BANNER
+          quantity: 1
+          color: BLACK
+        buyPrice: 332
+        sellPrice: 166
+  jidlo:
+    name: '&1Jídlo &7(strana %page%)'
+    size: 54
+    items:
+      BALANCE:
+        type: special
+        special: BALANCE
+        slot: 50
+      '0':
+        type: item
+        item:
+          material: APPLE
+          quantity: 1
+        buyPrice: 48
+        sellPrice: 24
+      '1':
+        type: item
+        item:
+          material: MUSHROOM_SOUP
+          quantity: 1
+        buyPrice: 112
+        sellPrice: 56
+      '2':
+        type: item
+        item:
+          material: BREAD
+          quantity: 1
+        buyPrice: 99
+        sellPrice: 50
+      '3':
+        type: item
+        item:
+          material: PORK
+          quantity: 1
+        buyPrice: 472
+        sellPrice: 236
+      '4':
+        type: item
+        item:
+          material: GRILLED_PORK
+          quantity: 1
+        buyPrice: 523
+        sellPrice: 261
+      '5':
+        type: item
+        item:
+          material: GOLDEN_APPLE
+          quantity: 1
+          damage: 0
+        buyPrice: 545
+        sellPrice: 273
+      '6':
+        type: item
+        item:
+          material: GOLDEN_APPLE
+          quantity: 1
+          damage: 1
+        buyPrice: 48294
+        sellPrice: 24147
+      '7':
+        type: item
+        item:
+          material: RAW_FISH
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 50
+      '8':
+        type: item
+        item:
+          material: COOKED_FISH
+          quantity: 1
+        buyPrice: 114
+        sellPrice: 57
+      '9':
+        type: item
+        item:
+          material: CAKE
+          quantity: 1
+        buyPrice: 383
+        sellPrice: 191
+      '10':
+        type: item
+        item:
+          material: COOKIE
+          quantity: 1
+        buyPrice: 8
+        sellPrice: 4
+      '11':
+        type: item
+        item:
+          material: MELON
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 5
+      '12':
+        type: item
+        item:
+          material: RAW_BEEF
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 150
+      '13':
+        type: item
+        item:
+          material: COOKED_BEEF
+          quantity: 1
+        buyPrice: 334
+        sellPrice: 167
+      '14':
+        type: item
+        item:
+          material: RAW_CHICKEN
+          quantity: 1
+        buyPrice: 60
+        sellPrice: 30
+      '15':
+        type: item
+        item:
+          material: COOKED_CHICKEN
+          quantity: 1
+        buyPrice: 70
+        sellPrice: 35
+      '16':
+        type: item
+        item:
+          material: ROTTEN_FLESH
+          quantity: 1
+        buyPrice: 5
+        sellPrice: 3
+      '17':
+        type: item
+        item:
+          material: SPIDER_EYE
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 25
+      '18':
+        type: item
+        item:
+          material: CARROT_ITEM
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 25
+      '19':
+        type: item
+        item:
+          material: POTATO_ITEM
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 25
+      '20':
+        type: item
+        item:
+          material: BAKED_POTATO
+          quantity: 1
+        buyPrice: 59
+        sellPrice: 29
+      '21':
+        type: item
+        item:
+          material: POISONOUS_POTATO
+          quantity: 1
+        buyPrice: 39000
+        sellPrice: 19500
+      '22':
+        type: item
+        item:
+          material: GOLDEN_CARROT
+          quantity: 1
+        buyPrice: 547
+        sellPrice: 274
+      '23':
+        type: item
+        item:
+          material: PUMPKIN_PIE
+          quantity: 1
+        buyPrice: 127
+        sellPrice: 64
+      '24':
+        type: item
+        item:
+          material: RAW_FISH
+          quantity: 1
+          damage: 1
+        buyPrice: 120
+        sellPrice: 60
+      '25':
+        type: item
+        item:
+          material: COOKED_FISH
+          quantity: 1
+          damage: 1
+        buyPrice: 136
+        sellPrice: 68
+      '26':
+        type: item
+        item:
+          material: RAW_FISH
+          quantity: 1
+          damage: 2
+        buyPrice: 140
+        sellPrice: 70
+      '27':
+        type: item
+        item:
+          material: RAW_FISH
+          quantity: 1
+          damage: 3
+        buyPrice: 200
+        sellPrice: 100
+      '28':
+        type: item
+        item:
+          material: RABBIT
+          quantity: 1
+        buyPrice: 1724
+        sellPrice: 862
+      '29':
+        type: item
+        item:
+          material: COOKED_RABBIT
+          quantity: 1
+        buyPrice: 1900
+        sellPrice: 950
+      '30':
+        type: item
+        item:
+          material: RABBIT_STEW
+          quantity: 1
+        buyPrice: 2267
+        sellPrice: 1134
+      '31':
+        type: item
+        item:
+          material: MUTTON
+          quantity: 1
+        buyPrice: 390
+        sellPrice: 195
+      '32':
+        type: item
+        item:
+          material: COOKED_MUTTON
+          quantity: 1
+        buyPrice: 432
+        sellPrice: 216
+      '33':
+        type: item
+        item:
+          material: BEETROOT
+          quantity: 1
+        buyPrice: 40
+        sellPrice: 20
+      '34':
+        type: item
+        item:
+          material: BEETROOT_SOUP
+          quantity: 1
+        buyPrice: 266
+        sellPrice: 133
+  nastroje:
+    name: '&1Nástroje &7(strana %page%)'
+    size: 54
+    items:
+      BALANCE:
+        type: special
+        special: BALANCE
+        slot: 50
+      '0':
+        type: item
+        item:
+          material: IRON_SPADE
+          quantity: 1
+        buyPrice: 249
+        sellPrice: 125
+      '1':
+        type: item
+        item:
+          material: IRON_PICKAXE
+          quantity: 1
+        buyPrice: 741
+        sellPrice: 371
+      '2':
+        type: item
+        item:
+          material: IRON_AXE
+          quantity: 1
+        buyPrice: 741
+        sellPrice: 371
+      '3':
+        type: item
+        item:
+          material: FLINT_AND_STEEL
+          quantity: 1
+        buyPrice: 257
+        sellPrice: 129
+      '4':
+        type: item
+        item:
+          material: WOOD_SPADE
+          quantity: 1
+        buyPrice: 6
+        sellPrice: 3
+      '5':
+        type: item
+        item:
+          material: WOOD_PICKAXE
+          quantity: 1
+        buyPrice: 12
+        sellPrice: 6
+      '6':
+        type: item
+        item:
+          material: WOOD_AXE
+          quantity: 1
+        buyPrice: 12
+        sellPrice: 6
+      '7':
+        type: item
+        item:
+          material: STONE_SPADE
+          quantity: 1
+        buyPrice: 6
+        sellPrice: 3
+      '8':
+        type: item
+        item:
+          material: STONE_PICKAXE
+          quantity: 1
+        buyPrice: 13
+        sellPrice: 7
+      '9':
+        type: item
+        item:
+          material: STONE_AXE
+          quantity: 1
+        buyPrice: 13
+        sellPrice: 7
+      '10':
+        type: item
+        item:
+          material: DIAMOND_SPADE
+          quantity: 1
+        buyPrice: 1033
+        sellPrice: 516
+      '11':
+        type: item
+        item:
+          material: DIAMOND_PICKAXE
+          quantity: 1
+        buyPrice: 3093
+        sellPrice: 1546
+      '12':
+        type: item
+        item:
+          material: DIAMOND_AXE
+          quantity: 1
+        buyPrice: 3093
+        sellPrice: 1546
+      '13':
+        type: item
+        item:
+          material: GOLD_SPADE
+          quantity: 1
+        buyPrice: 612
+        sellPrice: 306
+      '14':
+        type: item
+        item:
+          material: GOLD_PICKAXE
+          quantity: 1
+        buyPrice: 1830
+        sellPrice: 915
+      '15':
+        type: item
+        item:
+          material: GOLD_AXE
+          quantity: 1
+        buyPrice: 1830
+        sellPrice: 915
+      '16':
+        type: item
+        item:
+          material: WOOD_HOE
+          quantity: 1
+        buyPrice: 9
+        sellPrice: 4
+      '17':
+        type: item
+        item:
+          material: STONE_HOE
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 5
+      '18':
+        type: item
+        item:
+          material: IRON_HOE
+          quantity: 1
+        buyPrice: 495
+        sellPrice: 248
+        slot: 18
+      '19':
+        type: item
+        item:
+          material: DIAMOND_HOE
+          quantity: 1
+        buyPrice: 2063
+        sellPrice: 1031
+      '20':
+        type: item
+        item:
+          material: GOLD_HOE
+          quantity: 1
+        buyPrice: 1221
+        sellPrice: 611
+      '21':
+        type: item
+        item:
+          material: COMPASS
+          quantity: 1
+        buyPrice: 1045
+        sellPrice: 523
+      '22':
+        type: item
+        item:
+          material: FISHING_ROD
+          quantity: 1
+        buyPrice: 38
+        sellPrice: 19
+      '23':
+        type: item
+        item:
+          material: WATCH
+          quantity: 1
+        buyPrice: 2497
+        sellPrice: -1
+      '24':
+        type: item
+        item:
+          material: SHEARS
+          quantity: 1
+        buyPrice: 492
+        sellPrice: 246
+      '25':
+        type: item
+        item:
+          material: LEASH
+          quantity: 1
+        buyPrice: 34
+        sellPrice: 17
+      '26':
+        type: item
+        item:
+          material: NAME_TAG
+          quantity: 1
+        buyPrice: 1000
+        sellPrice: -1
+  souboj:
+    name: '&1Souboj &7(strana %page%)'
+    size: 54
+    items:
+      BALANCE:
+        type: special
+        special: BALANCE
+        slot: 50
+      '0':
+        type: item
+        item:
+          material: BOW
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 10
+      '2':
+        type: item
+        item:
+          material: IRON_SWORD
+          quantity: 1
+        buyPrice: 494
+        sellPrice: 247
+      '3':
+        type: item
+        item:
+          material: WOOD_SWORD
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 4
+      '4':
+        type: item
+        item:
+          material: STONE_SWORD
+          quantity: 1
+        buyPrice: 8
+        sellPrice: 4
+      '5':
+        type: item
+        item:
+          material: DIAMOND_SWORD
+          quantity: 1
+        buyPrice: 2061
+        sellPrice: 1031
+      '6':
+        type: item
+        item:
+          material: GOLD_SWORD
+          quantity: 1
+        buyPrice: 1220
+        sellPrice: 610
+      '7':
+        type: item
+        item:
+          material: LEATHER_HELMET
+          quantity: 1
+        buyPrice: 3438
+        sellPrice: 1719
+      '8':
+        type: item
+        item:
+          material: LEATHER_CHESTPLATE
+          quantity: 1
+        buyPrice: 5500
+        sellPrice: 2750
+      '9':
+        type: item
+        item:
+          material: LEATHER_LEGGINGS
+          quantity: 1
+        buyPrice: 4813
+        sellPrice: 2406
+      '10':
+        type: item
+        item:
+          material: LEATHER_BOOTS
+          quantity: 1
+        buyPrice: 2750
+        sellPrice: 1375
+      '11':
+        type: item
+        item:
+          material: IRON_HELMET
+          quantity: 1
+        buyPrice: 1230
+        sellPrice: 615
+      '12':
+        type: item
+        item:
+          material: IRON_CHESTPLATE
+          quantity: 1
+        buyPrice: 1969
+        sellPrice: 984
+      '13':
+        type: item
+        item:
+          material: IRON_LEGGINGS
+          quantity: 1
+        buyPrice: 1723
+        sellPrice: 861
+      '14':
+        type: item
+        item:
+          material: IRON_BOOTS
+          quantity: 1
+        buyPrice: 984
+        sellPrice: 492
+      '15':
+        type: item
+        item:
+          material: DIAMOND_HELMET
+          quantity: 1
+        buyPrice: 5149
+        sellPrice: 2574
+      '16':
+        type: item
+        item:
+          material: DIAMOND_CHESTPLATE
+          quantity: 1
+        buyPrice: 8238
+        sellPrice: 4119
+      '17':
+        type: item
+        item:
+          material: DIAMOND_LEGGINGS
+          quantity: 1
+        buyPrice: 7209
+        sellPrice: 3406
+      '18':
+        type: item
+        item:
+          material: DIAMOND_BOOTS
+          quantity: 1
+        buyPrice: 4119
+        sellPrice: 2060
+      '19':
+        type: item
+        item:
+          material: GOLD_HELMET
+          quantity: 1
+        buyPrice: 5149
+        sellPrice: 2574
+      '20':
+        type: item
+        item:
+          material: GOLD_CHESTPLATE
+          quantity: 1
+        buyPrice: 8238
+        sellPrice: 4119
+      '21':
+        type: item
+        item:
+          material: GOLD_LEGGINGS
+          quantity: 1
+        buyPrice: 4264
+        sellPrice: 2132
+      '22':
+        type: item
+        item:
+          material: GOLD_BOOTS
+          quantity: 1
+        buyPrice: 2436
+        sellPrice: 1218
+      '23':
+        type: item
+        item:
+          material: SHIELD
+          quantity: 1
+        buyPrice: 263
+        sellPrice: 132
+      '1':
+        type: item
+        item:
+          material: ARROW
+          quantity: 1
+        buyPrice: 54
+        sellPrice: 27
+      '24':
+        type: item
+        item:
+          material: SPECTRAL_ARROW
+          quantity: 1
+        buyPrice: 54
+        sellPrice: -1
+      '26':
+        type: item
+        item:
+          material: TIPPED_ARROW
+          quantity: 1
+          potion:
+            type: NIGHT_VISION
+            level: 1
+            extended: true
+        buyPrice: 1905
+        sellPrice: -1
+      '28':
+        type: item
+        item:
+          material: TIPPED_ARROW
+          quantity: 1
+          potion:
+            type: INVISIBILITY
+            level: 1
+            extended: true
+        buyPrice: 3798
+        sellPrice: -1
+      '30':
+        type: item
+        item:
+          material: TIPPED_ARROW
+          quantity: 1
+          potion:
+            type: JUMP
+            level: 1
+            extended: true
+        buyPrice: 37368
+        sellPrice: -1
+      '31':
+        type: item
+        item:
+          material: TIPPED_ARROW
+          quantity: 1
+          potion:
+            type: JUMP
+            level: 2
+            extended: false
+        buyPrice: 37318
+        sellPrice: -1
+      '33':
+        type: item
+        item:
+          material: TIPPED_ARROW
+          quantity: 1
+          potion:
+            type: FIRE_RESISTANCE
+            level: 1
+            extended: true
+        buyPrice: 724
+        sellPrice: -1
+      '35':
+        type: item
+        item:
+          material: TIPPED_ARROW
+          quantity: 1
+          potion:
+            type: SPEED
+            level: 1
+            extended: true
+        buyPrice: 882
+        sellPrice: -1
+      '36':
+        type: item
+        item:
+          material: TIPPED_ARROW
+          quantity: 1
+          potion:
+            type: SPEED
+            level: 2
+            extended: false
+        buyPrice: 833
+        sellPrice: -1
+      '38':
+        type: item
+        item:
+          material: TIPPED_ARROW
+          quantity: 1
+          potion:
+            type: SLOWNESS
+            level: 1
+            extended: true
+        buyPrice: 1423
+        sellPrice: -1
+      '40':
+        type: item
+        item:
+          material: TIPPED_ARROW
+          quantity: 1
+          potion:
+            type: WATER_BREATHING
+            level: 1
+            extended: true
+        buyPrice: 1141
+        sellPrice: -1
+      '42':
+        type: item
+        item:
+          material: TIPPED_ARROW
+          quantity: 1
+          potion:
+            type: INSTANT_HEAL
+            level: 2
+            extended: false
+        buyPrice: 1759
+        sellPrice: -1
+      '44':
+        type: item
+        item:
+          material: TIPPED_ARROW
+          quantity: 1
+          potion:
+            type: INSTANT_DAMAGE
+            level: 2
+            extended: false
+        buyPrice: 1561
+        sellPrice: -1
+      '46':
+        type: item
+        item:
+          material: TIPPED_ARROW
+          quantity: 1
+          potion:
+            type: POISON
+            level: 1
+            extended: true
+        buyPrice: 811
+        sellPrice: -1
+      '47':
+        type: item
+        item:
+          material: TIPPED_ARROW
+          quantity: 1
+          potion:
+            type: POISON
+            level: 2
+            extended: false
+        buyPrice: 762
+        sellPrice: -1
+      '49':
+        type: item
+        item:
+          material: TIPPED_ARROW
+          quantity: 1
+          potion:
+            type: REGEN
+            level: 1
+            extended: true
+        buyPrice: 1581
+        sellPrice: -1
+      '50':
+        type: item
+        item:
+          material: TIPPED_ARROW
+          quantity: 1
+          potion:
+            type: REGEN
+            level: 2
+            extended: false
+        buyPrice: 1532
+        sellPrice: -1
+      '52':
+        type: item
+        item:
+          material: TIPPED_ARROW
+          quantity: 1
+          potion:
+            type: STRENGTH
+            level: 1
+            extended: true
+        buyPrice: 761
+        sellPrice: -1
+      '53':
+        type: item
+        item:
+          material: TIPPED_ARROW
+          quantity: 1
+          potion:
+            type: STRENGTH
+            level: 2
+            extended: false
+        buyPrice: 712
+        sellPrice: -1
+      '55':
+        type: item
+        item:
+          material: TIPPED_ARROW
+          quantity: 1
+          potion:
+            type: WEAKNESS
+            level: 1
+            extended: true
+        buyPrice: 345
+        sellPrice: -1
+  materialy:
+    name: '&1Materiály &7(strana %page%)'
+    size: 54
+    items:
+      BALANCE:
+        type: special
+        special: BALANCE
+        slot: 50
+      '0':
+        type: item
+        item:
+          material: COAL
+          quantity: 1
+        buyPrice: 27
+        sellPrice: 14
+      '1':
+        type: item
+        item:
+          material: COAL
+          quantity: 1
+          damage: 1
+        buyPrice: 14
+        sellPrice: 7
+      '2':
+        type: item
+        item:
+          material: DIAMOND
+          quantity: 1
+        buyPrice: 936
+        sellPrice: 468
+      '3':
+        type: item
+        item:
+          material: IRON_INGOT
+          quantity: 1
+        buyPrice: 224
+        sellPrice: 112
+      '4':
+        type: item
+        item:
+          material: GOLD_INGOT
+          quantity: 1
+        buyPrice: 554
+        sellPrice: 227
+      '5':
+        type: item
+        item:
+          material: STICK
+          quantity: 1
+        buyPrice: 1
+        sellPrice: 1
+      '6':
+        type: item
+        item:
+          material: BOWL
+          quantity: 1
+        buyPrice: 2
+        sellPrice: 1
+      '7':
+        type: item
+        item:
+          material: STRING
+          quantity: 1
+        buyPrice: 15
+        sellPrice: 8
+      '8':
+        type: item
+        item:
+          material: FEATHER
+          quantity: 1
+        buyPrice: 63
+        sellPrice: 31
+      '9':
+        type: item
+        item:
+          material: SULPHUR
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 25
+      '10':
+        type: item
+        item:
+          material: SEEDS
+          quantity: 1
+        buyPrice: 3
+        sellPrice: 2
+      '11':
+        type: item
+        item:
+          material: WHEAT
+          quantity: 1
+        buyPrice: 30
+        sellPrice: 15
+      '12':
+        type: item
+        item:
+          material: FLINT
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 5
+      '13':
+        type: item
+        item:
+          material: LEATHER
+          quantity: 1
+        buyPrice: 625
+        sellPrice: 313
+      '14':
+        type: item
+        item:
+          material: CLAY_BRICK
+          quantity: 1
+        buyPrice: 26
+        sellPrice: 13
+      '15':
+        type: item
+        item:
+          material: CLAY_BALL
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 10
+      '16':
+        type: item
+        item:
+          material: SUGAR_CANE
+          quantity: 1
+        buyPrice: 75
+        sellPrice: 38
+      '17':
+        type: item
+        item:
+          material: EGG
+          quantity: 1
+        buyPrice: 3
+        sellPrice: 2
+      '18':
+        type: item
+        item:
+          material: GLOWSTONE_DUST
+          quantity: 1
+        buyPrice: 11
+        sellPrice: 5
+      '19':
+        type: item
+        item:
+          material: INK_SACK
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 25
+      '20':
+        type: item
+        item:
+          material: INK_SACK
+          quantity: 1
+          damage: 1
+        buyPrice: 55
+        sellPrice: 28
+      '21':
+        type: item
+        item:
+          material: INK_SACK
+          quantity: 1
+          damage: 2
+        buyPrice: 86
+        sellPrice: 43
+      '22':
+        type: item
+        item:
+          material: INK_SACK
+          quantity: 1
+          damage: 3
+        buyPrice: 1
+        sellPrice: 1
+      '23':
+        type: item
+        item:
+          material: INK_SACK
+          quantity: 1
+          damage: 4
+        buyPrice: 43
+        sellPrice: 21
+      '24':
+        type: item
+        item:
+          material: INK_SACK
+          quantity: 1
+          damage: 5
+        buyPrice: 54
+        sellPrice: 27
+      '25':
+        type: item
+        item:
+          material: INK_SACK
+          quantity: 1
+          damage: 6
+        buyPrice: 71
+        sellPrice: 35
+      '26':
+        type: item
+        item:
+          material: INK_SACK
+          quantity: 1
+          damage: 7
+        buyPrice: 31
+        sellPrice: 15
+      '27':
+        type: item
+        item:
+          material: INK_SACK
+          quantity: 1
+          damage: 8
+        buyPrice: 38
+        sellPrice: 19
+      '28':
+        type: item
+        item:
+          material: INK_SACK
+          quantity: 1
+          damage: 9
+        buyPrice: 40
+        sellPrice: 20
+      '29':
+        type: item
+        item:
+          material: INK_SACK
+          quantity: 1
+          damage: 10
+        buyPrice: 58
+        sellPrice: 29
+      '30':
+        type: item
+        item:
+          material: INK_SACK
+          quantity: 1
+          damage: 11
+        buyPrice: 55
+        sellPrice: 28
+      '31':
+        type: item
+        item:
+          material: INK_SACK
+          quantity: 1
+          damage: 12
+        buyPrice: 34
+        sellPrice: 17
+      '32':
+        type: item
+        item:
+          material: INK_SACK
+          quantity: 1
+          damage: 13
+        buyPrice: 52
+        sellPrice: 26
+      '33':
+        type: item
+        item:
+          material: INK_SACK
+          quantity: 1
+          damage: 14
+        buyPrice: 61
+        sellPrice: 30
+      '34':
+        type: item
+        item:
+          material: INK_SACK
+          quantity: 1
+          damage: 15
+        buyPrice: 18
+        sellPrice: 9
+      '35':
+        type: item
+        item:
+          material: SUGAR
+          quantity: 1
+        buyPrice: 83
+        sellPrice: 41
+      '36':
+        type: item
+        item:
+          material: PUMPKIN_SEEDS
+          quantity: 1
+        buyPrice: 8
+        sellPrice: 4
+      '37':
+        type: item
+        item:
+          material: MELON_SEEDS
+          quantity: 1
+        buyPrice: 11
+        sellPrice: 6
+      '38':
+        type: item
+        item:
+          material: BLAZE_ROD
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 25
+      '39':
+        type: item
+        item:
+          material: GOLD_NUGGET
+          quantity: 1
+        buyPrice: 56
+        sellPrice: 28
+      '40':
+        type: item
+        item:
+          material: EMERALD
+          quantity: 1
+        buyPrice: 1493
+        sellPrice: 747
+      '41':
+        type: item
+        item:
+          material: NETHER_STAR
+          quantity: 1
+        buyPrice: 2000
+        sellPrice: 1000
+      '42':
+        type: item
+        item:
+          material: NETHER_BRICK_ITEM
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 4
+      '43':
+        type: item
+        item:
+          material: QUARTZ
+          quantity: 1
+        buyPrice: 74
+        sellPrice: 37
+      '44':
+        type: item
+        item:
+          material: CHORUS_FRUIT
+          quantity: 1
+        buyPrice: 3
+        sellPrice: 1
+      '45':
+        type: item
+        item:
+          material: CHORUS_FRUIT_POPPED
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 3
+      '46':
+        type: item
+        item:
+          material: BEETROOT_SEEDS
+          quantity: 1
+        buyPrice: 4
+        sellPrice: 2
+  ruzne:
+    name: '&1Různé &7(strana %page%)'
+    size: 54
+    items:
+      BALANCE:
+        type: special
+        special: BALANCE
+        slot: 50
+      '0':
+        type: item
+        item:
+          material: BEACON
+          quantity: 1
+        buyPrice: 2287
+        sellPrice: 1144
+      '1':
+        type: item
+        item:
+          material: BUCKET
+          quantity: 1
+        buyPrice: 738
+        sellPrice: 369
+      '2':
+        type: item
+        item:
+          material: WATER_BUCKET
+          quantity: 1
+        buyPrice: 768
+        sellPrice: 384
+      '3':
+        type: item
+        item:
+          material: LAVA_BUCKET
+          quantity: 1
+        buyPrice: 788
+        sellPrice: 394
+      '4':
+        type: item
+        item:
+          material: SNOW_BALL
+          quantity: 1
+        buyPrice: 3
+        sellPrice: 2
+      '5':
+        type: item
+        item:
+          material: MILK_BUCKET
+          quantity: 1
+        buyPrice: 768
+        sellPrice: 384
+      '6':
+        type: item
+        item:
+          material: PAPER
+          quantity: 1
+        buyPrice: 83
+        sellPrice: 41
+      '7':
+        type: item
+        item:
+          material: BOOK
+          quantity: 1
+        buyPrice: 960
+        sellPrice: 480
+      '8':
+        type: item
+        item:
+          material: SLIME_BALL
+          quantity: 1
+        buyPrice: 1
+        sellPrice: 1
+      '9':
+        type: item
+        item:
+          material: BONE
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 25
+      '10':
+        type: item
+        item:
+          material: ENDER_PEARL
+          quantity: 1
+        buyPrice: 5
+        sellPrice: 3
+      '11':
+        type: item
+        item:
+          material: EYE_OF_ENDER
+          quantity: 1
+        buyPrice: 36
+        sellPrice: 18
+      '12':
+        type: item
+        item:
+          material: SADDLE
+          quantity: 1
+        buyPrice: 1000
+        sellPrice: -1
+      '13':
+        type: item
+        item:
+          material: DIAMOND_BARDING
+          quantity: 1
+        buyPrice: 6000
+        sellPrice: -1
+      '14':
+        type: item
+        item:
+          material: IRON_BARDING
+          quantity: 1
+        buyPrice: 2000
+        sellPrice: -1
+      '15':
+        type: item
+        item:
+          material: GOLD_BARDING
+          quantity: 1
+        buyPrice: 4000
+        sellPrice: -1
+      '16':
+        type: item
+        item:
+          material: BOOK_AND_QUILL
+          quantity: 1
+        buyPrice: 1179
+        sellPrice: 590
+      '17':
+        type: item
+        item:
+          material: GOLD_RECORD
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: 750
+      '18':
+        type: item
+        item:
+          material: GREEN_RECORD
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: 750
+      '19':
+        type: item
+        item:
+          material: RECORD_3
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: 750
+      '20':
+        type: item
+        item:
+          material: RECORD_4
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: 750
+      '21':
+        type: item
+        item:
+          material: RECORD_5
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: 750
+      '22':
+        type: item
+        item:
+          material: RECORD_6
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: 750
+      '23':
+        type: item
+        item:
+          material: RECORD_7
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: 750
+      '24':
+        type: item
+        item:
+          material: RECORD_8
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: 750
+      '25':
+        type: item
+        item:
+          material: RECORD_9
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: 750
+      '26':
+        type: item
+        item:
+          material: RECORD_10
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: 750
+      '27':
+        type: item
+        item:
+          material: RECORD_11
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: 750
+      '28':
+        type: item
+        item:
+          material: RECORD_12
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: 750
+      '29':
+        type: item
+        item:
+          material: EXP_BOTTLE
+          quantity: 1
+        buyPrice: 1000
+  doprava:
+    name: '&1Doprava &7(strana %page%)'
+    size: 54
+    items:
+      BALANCE:
+        type: special
+        special: BALANCE
+        slot: 50
+      '0':
+        type: item
+        item:
+          material: POWERED_RAIL
+          quantity: 1
+        buyPrice: 620
+        sellPrice: -1
+      '1':
+        type: item
+        item:
+          material: DETECTOR_RAIL
+          quantity: 1
+        buyPrice: 259
+        sellPrice: -1
+      '2':
+        type: item
+        item:
+          material: RAILS
+          quantity: 1
+        buyPrice: 92
+        sellPrice: -1
+      '3':
+        type: item
+        item:
+          material: ACTIVATOR_RAIL
+          quantity: 1
+        buyPrice: 258
+        sellPrice: -1
+      '4':
+        type: item
+        item:
+          material: MINECART
+          quantity: 1
+        buyPrice: 1230
+        sellPrice: 615
+      '5':
+        type: item
+        item:
+          material: SADDLE
+          quantity: 1
+        buyPrice: 1000
+        sellPrice: -1
+      '6':
+        type: item
+        item:
+          material: BOAT
+          quantity: 1
+        buyPrice: 14
+        sellPrice: 7
+      '7':
+        type: item
+        item:
+          material: STORAGE_MINECART
+          quantity: 1
+        buyPrice: 1379
+        sellPrice: 689
+      '8':
+        type: item
+        item:
+          material: POWERED_MINECART
+          quantity: 1
+        buyPrice: 1383
+        sellPrice: 691
+      '9':
+        type: item
+        item:
+          material: CARROT_STICK
+          quantity: 1
+        buyPrice: 97
+        sellPrice: 48
+      '10':
+        type: item
+        item:
+          material: EXPLOSIVE_MINECART
+          quantity: 1
+        buyPrice: 1680
+        sellPrice: 840
+      '11':
+        type: item
+        item:
+          material: HOPPER_MINECART
+          quantity: 1
+        buyPrice: 2735
+        sellPrice: 1368
+      '12':
+        type: item
+        item:
+          material: BOAT_SPRUCE
+          quantity: 1
+        buyPrice: 8
+        sellPrice: 4
+      '13':
+        type: item
+        item:
+          material: BOAT_BIRCH
+          quantity: 1
+        buyPrice: 2
+        sellPrice: 1
+      '14':
+        type: item
+        item:
+          material: BOAT_JUNGLE
+          quantity: 1
+        buyPrice: 24
+        sellPrice: 12
+      '15':
+        type: item
+        item:
+          material: BOAT_ACACIA
+          quantity: 1
+        buyPrice: 6
+        sellPrice: 3
+      '16':
+        type: item
+        item:
+          material: BOAT_DARK_OAK
+          quantity: 1
+        buyPrice: 11
+        sellPrice: 5
+  redstone:
+    name: '&1Redstone &7(strana %page%)'
+    size: 54
+    items:
+      BALANCE:
+        type: special
+        special: BALANCE
+        slot: 50
+      '0':
+        type: item
+        item:
+          material: DISPENSER
+          quantity: 1
+        buyPrice: 106
+        sellPrice: 53
+      '1':
+        type: item
+        item:
+          material: NOTE_BLOCK
+          quantity: 1
+        buyPrice: 84
+        sellPrice: 42
+      '2':
+        type: item
+        item:
+          material: PISTON_STICKY_BASE
+          quantity: 1
+        buyPrice: 363
+        sellPrice: 181
+      '3':
+        type: item
+        item:
+          material: PISTON_BASE
+          quantity: 1
+        buyPrice: 329
+        sellPrice: 164
+      '4':
+        type: item
+        item:
+          material: TNT
+          quantity: 1
+        buyPrice: 297
+        sellPrice: 149
+      '5':
+        type: item
+        item:
+          material: LEVER
+          quantity: 1
+        buyPrice: 5
+        sellPrice: 2
+      '6':
+        type: item
+        item:
+          material: STONE_PLATE
+          quantity: 1
+        buyPrice: 15
+        sellPrice: 8
+      '7':
+        type: item
+        item:
+          material: WOOD_PLATE
+          quantity: 1
+        buyPrice: 6
+        sellPrice: 3
+      '8':
+        type: item
+        item:
+          material: REDSTONE_TORCH_ON
+          quantity: 1
+        buyPrice: 63
+        sellPrice: 31
+      '9':
+        type: item
+        item:
+          material: STONE_BUTTON
+          quantity: 1
+        buyPrice: 8
+        sellPrice: 4
+      '10':
+        type: item
+        item:
+          material: TRAP_DOOR
+          quantity: 1
+        buyPrice: 9
+        sellPrice: 4
+      '11':
+        type: item
+        item:
+          material: FENCE_GATE
+          quantity: 1
+        buyPrice: 12
+        sellPrice: 6
+      '12':
+        type: item
+        item:
+          material: IRON_TRAPDOOR
+          quantity: 1
+        buyPrice: 984
+        sellPrice: 492
+      '13':
+        type: item
+        item:
+          material: TRIPWIRE_HOOK
+          quantity: 1
+        buyPrice: 125
+        sellPrice: 63
+      '14':
+        type: item
+        item:
+          material: WOOD_BUTTON
+          quantity: 1
+        buyPrice: 3
+        sellPrice: 1
+      '15':
+        type: item
+        item:
+          material: GOLD_PLATE
+          quantity: 1
+        buyPrice: 1218
+        sellPrice: 609
+      '16':
+        type: item
+        item:
+          material: IRON_PLATE
+          quantity: 1
+        buyPrice: 492
+        sellPrice: 246
+      '17':
+        type: item
+        item:
+          material: DAYLIGHT_DETECTOR
+          quantity: 1
+        buyPrice: 1260
+        sellPrice: 630
+      '18':
+        type: item
+        item:
+          material: REDSTONE_BLOCK
+          quantity: 1
+        buyPrice: 549
+        sellPrice: 275
+      '19':
+        type: item
+        item:
+          material: HOPPER
+          quantity: 1
+        buyPrice: 1256
+        sellPrice: 628
+      '20':
+        type: item
+        item:
+          material: DROPPER
+          quantity: 1
+        buyPrice: 1466
+        sellPrice: 733
+      '21':
+        type: item
+        item:
+          material: WOOD_DOOR
+          quantity: 1
+        buyPrice: 6
+        sellPrice: 3
+      '22':
+        type: item
+        item:
+          material: IRON_DOOR
+          quantity: 1
+        buyPrice: 492
+        sellPrice: 146
+      '23':
+        type: item
+        item:
+          material: REDSTONE
+          quantity: 1
+        buyPrice: 55
+        sellPrice: 28
+      '24':
+        type: item
+        item:
+          material: DIODE
+          quantity: 1
+        buyPrice: 222
+        sellPrice: 111
+      '25':
+        type: item
+        item:
+          material: REDSTONE_COMPARATOR
+          quantity: 1
+        buyPrice: 311
+        sellPrice: 155
+      '26':
+        type: item
+        item:
+          material: REDSTONE_LAMP_OFF
+          quantity: 1
+        buyPrice: 299
+        sellPrice: 150
+      '27':
+        type: item
+        item:
+          material: SPRUCE_DOOR_ITEM
+          quantity: 1
+        buyPrice: 16
+        sellPrice: 8
+      '28':
+        type: item
+        item:
+          material: BIRCH_DOOR_ITEM
+          quantity: 1
+        buyPrice: 5
+        sellPrice: 2
+      '29':
+        type: item
+        item:
+          material: JUNGLE_DOOR_ITEM
+          quantity: 1
+        buyPrice: 48
+        sellPrice: 24
+      '30':
+        type: item
+        item:
+          material: ACACIA_DOOR_ITEM
+          quantity: 1
+        buyPrice: 12
+        sellPrice: 6
+      '31':
+        type: item
+        item:
+          material: DARK_OAK_DOOR_ITEM
+          quantity: 1
+        buyPrice: 21
+        sellPrice: 11
+      '32':
+        type: item
+        item:
+          material: SPRUCE_FENCE_GATE
+          quantity: 1
+        buyPrice: 22
+        sellPrice: 11
+      '33':
+        type: item
+        item:
+          material: BIRCH_FENCE_GATE
+          quantity: 1
+        buyPrice: 11
+        sellPrice: 6
+      '34':
+        type: item
+        item:
+          material: JUNGLE_FENCE_GATE
+          quantity: 1
+        buyPrice: 55
+        sellPrice: 27
+      '35':
+        type: item
+        item:
+          material: DARK_OAK_FENCE_GATE
+          quantity: 1
+        buyPrice: 28
+        sellPrice: 14
+      '36':
+        type: item
+        item:
+          material: ACACIA_FENCE_GATE
+          quantity: 1
+        buyPrice: 19
+        sellPrice: 9
+      '37':
+        type: item
+        item:
+          material: OBSERVER
+          quantity: 1
+        buyPrice: 2000
+        sellPrice: 500
+  elixiry:
+    name: '&1Elixíry &7(strana %page%)'
+    size: 54
+    items:
+      BALANCE:
+        type: special
+        special: BALANCE
+        slot: 50
+      '0':
+        type: item
+        item:
+          material: CAULDRON_ITEM
+          quantity: 1
+        buyPrice: 1723
+        sellPrice: 861
+      '1':
+        type: item
+        item:
+          material: BREWING_STAND_ITEM
+          quantity: 1
+        buyPrice: 65
+        sellPrice: 32
+      '3':
+        type: item
+        item:
+          material: BLAZE_POWDER
+          quantity: 1
+        buyPrice: 28
+        sellPrice: 14
+      '4':
+        type: item
+        item:
+          material: MAGMA_CREAM
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 5
+      '5':
+        type: item
+        item:
+          material: GHAST_TEAR
+          quantity: 1
+        buyPrice: 400
+        sellPrice: 200
+      '6':
+        type: item
+        item:
+          material: FERMENTED_SPIDER_EYE
+          quantity: 1
+        buyPrice: 67
+        sellPrice: 33
+      '7':
+        type: item
+        item:
+          material: SPECKLED_MELON
+          quantity: 1
+        buyPrice: 503
+        sellPrice: 252
+      '8':
+        type: item
+        item:
+          material: NETHER_STALK
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 50
+      '9':
+        type: item
+        item:
+          material: SUGAR
+          quantity: 1
+        buyPrice: 83
+        sellPrice: 41
+      '10':
+        type: item
+        item:
+          material: GLOWSTONE_DUST
+          quantity: 1
+        buyPrice: 11
+        sellPrice: 5
+      '11':
+        type: item
+        item:
+          material: SULPHUR
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 25
+      '12':
+        type: item
+        item:
+          material: GOLDEN_CARROT
+          quantity: 1
+        buyPrice: 547
+        sellPrice: 274
+      '13':
+        type: item
+        item:
+          material: RAW_FISH
+          quantity: 1
+          damage: 3
+        buyPrice: 200
+        sellPrice: 100
+      '2':
+        type: item
+        item:
+          material: GLASS_BOTTLE
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 5
+      '14':
+        type: item
+        item:
+          material: DRAGONS_BREATH
+          quantity: 1
+        buyPrice: 40
+        sellPrice: 20
+      '15':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: WATER
+            level: 1
+            extended: false
+        buyPrice: 1000
+        sellPrice: -1
+      '16':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: MUNDANE
+            level: 1
+            extended: false
+        buyPrice: 1000
+        sellPrice: -1
+      '17':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: THICK
+            level: 1
+            extended: false
+        buyPrice: 1000
+        sellPrice: -1
+      '18':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: AWKWARD
+            level: 1
+            extended: false
+        buyPrice: 1000
+        sellPrice: -1
+      '19':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: NIGHT_VISION
+            level: 1
+            extended: false
+        buyPrice: 1586
+        sellPrice: -1
+      '20':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: NIGHT_VISION
+            level: 1
+            extended: true
+        buyPrice: 3284
+        sellPrice: -1
+      '21':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: INVISIBILITY
+            level: 1
+            extended: false
+        buyPrice: 3307
+        sellPrice: -1
+      '22':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: INVISIBILITY
+            level: 1
+            extended: true
+        buyPrice: 6725
+        sellPrice: -1
+      '24':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: JUMP
+            level: 1
+            extended: true
+        buyPrice: 67762
+        sellPrice: -1
+      '25':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: JUMP
+            level: 2
+            extended: false
+        buyPrice: 67672
+        sellPrice: -1
+      '26':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: FIRE_RESISTANCE
+            level: 1
+            extended: false
+        buyPrice: 512
+        sellPrice: -1
+      '27':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: FIRE_RESISTANCE
+            level: 1
+            extended: true
+        buyPrice: 1137
+        sellPrice: -1
+      '28':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: SPEED
+            level: 1
+            extended: false
+        buyPrice: 657
+        sellPrice: -1
+      '29':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: SPEED
+            level: 1
+            extended: true
+        buyPrice: 1425
+        sellPrice: -1
+      '30':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: SPEED
+            level: 2
+            extended: false
+        buyPrice: 1336
+        sellPrice: -1
+      '31':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: SLOWNESS
+            level: 1
+            extended: false
+        buyPrice: 1160
+        sellPrice: -1
+      '32':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: SLOWNESS
+            level: 1
+            extended: true
+        buyPrice: 2408
+        sellPrice: -1
+      '33':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: WATER_BREATHING
+            level: 1
+            extended: false
+        buyPrice: 892
+        sellPrice: -1
+      '34':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: WATER_BREATHING
+            level: 1
+            extended: true
+        buyPrice: 1895
+        sellPrice: -1
+      '35':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: INSTANT_HEAL
+            level: 1
+            extended: false
+        buyPrice: 1498
+        sellPrice: -1
+      '36':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: INSTANT_HEAL
+            level: 2
+            extended: false
+        buyPrice: 3018
+        sellPrice: -1
+      '37':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: INSTANT_DAMAGE
+            level: 1
+            extended: false
+        buyPrice: 1318
+        sellPrice: -1
+      '38':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: INSTANT_DAMAGE
+            level: 2
+            extended: false
+        buyPrice: 2658
+        sellPrice: -1
+      '39':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: POISON
+            level: 1
+            extended: false
+        buyPrice: 592
+        sellPrice: -1
+      '40':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: POISON
+            level: 1
+            extended: true
+        buyPrice: 2395
+        sellPrice: -1
+      '41':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: POISON
+            level: 2
+            extended: false
+        buyPrice: 1206
+        sellPrice: -1
+      '42':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: REGEN
+            level: 1
+            extended: false
+        buyPrice: 1292
+        sellPrice: -1
+      '43':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: REGEN
+            level: 1
+            extended: true
+        buyPrice: 2695
+        sellPrice: -1
+      '44':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: REGEN
+            level: 2
+            extended: false
+        buyPrice: 2602
+        sellPrice: -1
+      '45':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: STRENGTH
+            level: 1
+            extended: false
+        buyPrice: 547
+        sellPrice: -1
+      '46':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: STRENGTH
+            level: 1
+            extended: true
+        buyPrice: 1205
+        sellPrice: -1
+      '47':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: STRENGTH
+            level: 2
+            extended: false
+        buyPrice: 1116
+        sellPrice: -1
+      '48':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: WEAKNESS
+            level: 1
+            extended: false
+        buyPrice: 179
+        sellPrice: -1
+      '49':
+        type: item
+        item:
+          material: POTION
+          quantity: 1
+          potion:
+            type: WEAKNESS
+            level: 1
+            extended: true
+        buyPrice: 447
+        sellPrice: -1
+      '51':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: WATER
+            level: 1
+            extended: false
+        buyPrice: 1000
+        sellPrice: -1
+      '52':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: MUNDANE
+            level: 1
+            extended: false
+        buyPrice: 1000
+        sellPrice: -1
+      '53':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: THICK
+            level: 1
+            extended: false
+        buyPrice: 1000
+        sellPrice: -1
+      '54':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: AWKWARD
+            level: 1
+            extended: false
+        buyPrice: 1000
+        sellPrice: -1
+      '55':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: NIGHT_VISION
+            level: 1
+            extended: false
+        buyPrice: 3273
+        sellPrice: -1
+      '56':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: NIGHT_VISION
+            level: 1
+            extended: true
+        buyPrice: 6669
+        sellPrice: -1
+      '57':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: INVISIBILITY
+            level: 1
+            extended: false
+        buyPrice: 6714
+        sellPrice: -1
+      '58':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: INVISIBILITY
+            level: 1
+            extended: true
+        buyPrice: 13552
+        sellPrice: -1
+      '60':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: JUMP
+            level: 1
+            extended: true
+        buyPrice: 135624
+        sellPrice: -1
+      '61':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: JUMP
+            level: 2
+            extended: false
+        buyPrice: 135446
+        sellPrice: -1
+      '62':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: FIRE_RESISTANCE
+            level: 1
+            extended: false
+        buyPrice: 1126
+        sellPrice: -1
+      '62':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: FIRE_RESISTANCE
+            level: 1
+            extended: true
+        buyPrice: 2357
+        sellPrice: -1
+      '63':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: SPEED
+            level: 1
+            extended: false
+        buyPrice: 1414
+        sellPrice: -1
+      '64':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: SPEED
+            level: 1
+            extended: true
+        buyPrice: 2951
+        sellPrice: -1
+      '65':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: SPEED
+            level: 2
+            extended: false
+        buyPrice: 2772
+        sellPrice: -1
+      '66':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: SLOWNESS
+            level: 1
+            extended: false
+        buyPrice: 2420
+        sellPrice: -1
+      '67':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: SLOWNESS
+            level: 1
+            extended: true
+        buyPrice: 4918
+        sellPrice: -1
+      '68':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: WATER_BREATHING
+            level: 1
+            extended: false
+        buyPrice: 1250
+        sellPrice: -1
+      '69':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: WATER_BREATHING
+            level: 1
+            extended: true
+        buyPrice: 2671
+        sellPrice: -1
+      '70':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: INSTANT_HEAL
+            level: 1
+            extended: false
+        buyPrice: 3097
+        sellPrice: -1
+      '71':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: INSTANT_HEAL
+            level: 2
+            extended: false
+        buyPrice: 6138
+        sellPrice: -1
+      '72':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: INSTANT_DAMAGE
+            level: 1
+            extended: false
+        buyPrice: 2735
+        sellPrice: -1
+      '73':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: INSTANT_DAMAGE
+            level: 2
+            extended: false
+        buyPrice: 5418
+        sellPrice: -1
+      '74':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: POISON
+            level: 1
+            extended: false
+        buyPrice: 1284
+        sellPrice: -1
+      '75':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: POISON
+            level: 1
+            extended: true
+        buyPrice: 2691
+        sellPrice: -1
+      '76':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: POISON
+            level: 2
+            extended: false
+        buyPrice: 2512
+        sellPrice: -1
+      '77':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: REGEN
+            level: 1
+            extended: false
+        buyPrice: 2684
+        sellPrice: -1
+      '78':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: REGEN
+            level: 1
+            extended: true
+        buyPrice: 5491
+        sellPrice: -1
+      '79':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: REGEN
+            level: 2
+            extended: false
+        buyPrice: 5312
+        sellPrice: -1
+      '80':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: STRENGTH
+            level: 1
+            extended: false
+        buyPrice: 1194
+        sellPrice: -1
+      '81':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: STRENGTH
+            level: 1
+            extended: true
+        buyPrice: 2511
+        sellPrice: -1
+      '82':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: STRENGTH
+            level: 2
+            extended: false
+        buyPrice: 2332
+        sellPrice: -1
+      '83':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: WEAKNESS
+            level: 1
+            extended: false
+        buyPrice: 459
+        sellPrice: -1
+      '84':
+        type: item
+        item:
+          material: SPLASH_POTION
+          quantity: 1
+          potion:
+            type: WEAKNESS
+            level: 1
+            extended: true
+        buyPrice: 995
+        sellPrice: -1
+      '86':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: WATER
+            level: 1
+            extended: false
+        buyPrice: 1000
+        sellPrice: -1
+      '87':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: MUNDANE
+            level: 1
+            extended: false
+        buyPrice: 1000
+        sellPrice: -1
+      '88':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: THICK
+            level: 1
+            extended: false
+        buyPrice: 1000
+        sellPrice: -1
+      '89':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: AWKWARD
+            level: 1
+            extended: false
+        buyPrice: 1000
+        sellPrice: -1
+      '90':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: NIGHT_VISION
+            level: 1
+            extended: true
+        buyPrice: 13418
+        sellPrice: -1
+      '92':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: INVISIBILITY
+            level: 1
+            extended: true
+        buyPrice: 27184
+        sellPrice: -1
+      '94':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: JUMP
+            level: 1
+            extended: true
+        buyPrice: 271330
+        sellPrice: -1
+      '96':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: JUMP
+            level: 2
+            extended: false
+        buyPrice: 270972
+        sellPrice: -1
+      '97':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: FIRE_RESISTANCE
+            level: 1
+            extended: true
+        buyPrice: 4830
+        sellPrice: -1
+      '99':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: SPEED
+            level: 1
+            extended: true
+        buyPrice: 5983
+        sellPrice: -1
+      '101':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: SPEED
+            level: 2
+            extended: false
+        buyPrice: 5626
+        sellPrice: -1
+      '102':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: SLOWNESS
+            level: 1
+            extended: true
+        buyPrice: 9917
+        sellPrice: -1
+      '104':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: WATER_BREATHING
+            level: 1
+            extended: true
+        buyPrice: 7863
+        sellPrice: -1
+      '107':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: INSTANT_HEAL
+            level: 2
+            extended: false
+        buyPrice: 12357
+        sellPrice: -1
+      '109':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: INSTANT_DAMAGE
+            level: 2
+            extended: false
+        buyPrice: 10917
+        sellPrice: -1
+      '110':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: POISON
+            level: 1
+            extended: true
+        buyPrice: 5463
+        sellPrice: -1
+      '112':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: POISON
+            level: 2
+            extended: false
+        buyPrice: 5106
+        sellPrice: -1
+      '113':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: REGEN
+            level: 1
+            extended: true
+        buyPrice: 11063
+        sellPrice: -1
+      '115':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: REGEN
+            level: 2
+            extended: false
+        buyPrice: 10706
+        sellPrice: -1
+      '116':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: STRENGTH
+            level: 1
+            extended: true
+        buyPrice: 5103
+        sellPrice: -1
+      '118':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: STRENGTH
+            level: 2
+            extended: false
+        buyPrice: 4746
+        sellPrice: -1
+      '119':
+        type: item
+        item:
+          material: LINGERING_POTION
+          quantity: 1
+          potion:
+            type: WEAKNESS
+            level: 1
+            extended: true
+        buyPrice: 2072
+        sellPrice: -1
